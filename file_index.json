@@ -1,0 +1,1535 @@
+{
+  "generated_at": "2025-10-22T10:54:43.067045",
+  "base_path": "D:\\Sistema_Arquivos\\repositorio",
+  "total_items": 191,
+  "structure": [
+    {
+      "name": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10",
+      "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10",
+      "type": "folder",
+      "children": [
+        {
+          "name": "UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO",
+          "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO",
+          "type": "folder",
+          "children": [
+            {
+              "name": "DOCS EXTRAS UFG.pdf",
+              "size": 377178,
+              "modified": "2025-10-15T10:01:23.803125",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO/DOCS EXTRAS UFG.pdf"
+            },
+            {
+              "name": "DOCS LICITA GOIAS.zip",
+              "size": 16298947,
+              "modified": "2025-10-15T10:01:15.828349",
+              "type": "file",
+              "extension": ".zip",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO/DOCS LICITA GOIAS.zip"
+            },
+            {
+              "name": "PROPOSTA GOIAS 2025 FINAL.pdf",
+              "size": 470896,
+              "modified": "2025-10-15T10:01:16.007270",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO/PROPOSTA GOIAS 2025 FINAL.pdf"
+            },
+            {
+              "name": "RESPOSTA AO PARECER TECNICO.pdf",
+              "size": 410424,
+              "modified": "2025-10-15T10:01:19.046480",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO/RESPOSTA AO PARECER TECNICO.pdf"
+            },
+            {
+              "name": "doc",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO/doc",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "001 25º 2025 ALTERAÇÃO CONTRATO SOCIAL CONSOLIDADA.pdf",
+                  "size": 1364238,
+                  "modified": "2025-05-08T18:37:04.164776",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO/doc/001 25º 2025 ALTERAÇÃO CONTRATO SOCIAL CONSOLIDADA.pdf"
+                },
+                {
+                  "name": "002 CNPJ.pdf",
+                  "size": 113495,
+                  "modified": "2024-11-07T15:03:00",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO/doc/002 CNPJ.pdf"
+                },
+                {
+                  "name": "008 BALANÇO TERRAÇO e ÍNDICES 2021-22.pdf",
+                  "size": 870359,
+                  "modified": "2022-06-08T09:25:36",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO/doc/008 BALANÇO TERRAÇO e ÍNDICES 2021-22.pdf"
+                },
+                {
+                  "name": "008 BALANÇO TERRAÇO e ÍNDICES 2022-23.pdf",
+                  "size": 881406,
+                  "modified": "2023-06-22T10:57:47",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO/doc/008 BALANÇO TERRAÇO e ÍNDICES 2022-23.pdf"
+                },
+                {
+                  "name": "008 BALANÇO TERRAÇO e ÍNDICES 2023-24.pdf",
+                  "size": 796435,
+                  "modified": "2024-06-10T15:02:51",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO/doc/008 BALANÇO TERRAÇO e ÍNDICES 2023-24.pdf"
+                },
+                {
+                  "name": "21 ATESTADOS DE CAPACIDADE TÉCNICA REGISTRADOS.pdf",
+                  "size": 3659971,
+                  "modified": "2025-02-17T08:12:42.498158",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO/doc/21 ATESTADOS DE CAPACIDADE TÉCNICA REGISTRADOS.pdf"
+                },
+                {
+                  "name": "21 ATESTADOS DE CAPACIDADE TÉCNICA.pdf",
+                  "size": 5808339,
+                  "modified": "2025-05-12T12:12:51.349767",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 153052_90108_UNIVERSIDADE FEDERAL DE GOIAS-UFGO/doc/21 ATESTADOS DE CAPACIDADE TÉCNICA.pdf"
+                }
+              ],
+              "modified": "2025-10-22T10:19:11.421807"
+            }
+          ],
+          "modified": "2025-10-22T10:19:07.312002"
+        },
+        {
+          "name": "UASG 989047_90005_PREFEITURA MUNICIPAL DE CACERES - MT",
+          "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 989047_90005_PREFEITURA MUNICIPAL DE CACERES - MT",
+          "type": "folder",
+          "children": [
+            {
+              "name": "001 22º 2025 ALTERAÇÃO CONTRATO SOCIAL CONSOLIDADA.pdf",
+              "size": 1359349,
+              "modified": "2025-02-18T09:15:47.115195",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 989047_90005_PREFEITURA MUNICIPAL DE CACERES - MT/001 22º 2025 ALTERAÇÃO CONTRATO SOCIAL CONSOLIDADA.pdf"
+            },
+            {
+              "name": "002 CNPJ 2024.pdf",
+              "size": 113495,
+              "modified": "2024-11-07T15:03:00",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 989047_90005_PREFEITURA MUNICIPAL DE CACERES - MT/002 CNPJ 2024.pdf"
+            },
+            {
+              "name": "008 BALANÇO TERRAÇO e ÍNDICES 2021-22.pdf",
+              "size": 870359,
+              "modified": "2022-06-08T09:25:36",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 989047_90005_PREFEITURA MUNICIPAL DE CACERES - MT/008 BALANÇO TERRAÇO e ÍNDICES 2021-22.pdf"
+            },
+            {
+              "name": "008 BALANÇO TERRAÇO e ÍNDICES 2022-23.pdf",
+              "size": 881406,
+              "modified": "2023-06-22T10:57:47",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 989047_90005_PREFEITURA MUNICIPAL DE CACERES - MT/008 BALANÇO TERRAÇO e ÍNDICES 2022-23.pdf"
+            },
+            {
+              "name": "008 BALANÇO TERRAÇO e ÍNDICES 2023-24.pdf",
+              "size": 796435,
+              "modified": "2024-06-10T15:02:51",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 989047_90005_PREFEITURA MUNICIPAL DE CACERES - MT/008 BALANÇO TERRAÇO e ÍNDICES 2023-24.pdf"
+            },
+            {
+              "name": "21 ATESTADOS DE CAPACIDADE TÉCNICA REGISTRADOS 2.pdf",
+              "size": 3659971,
+              "modified": "2025-02-17T08:12:44",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 989047_90005_PREFEITURA MUNICIPAL DE CACERES - MT/21 ATESTADOS DE CAPACIDADE TÉCNICA REGISTRADOS 2.pdf"
+            },
+            {
+              "name": "21 ATESTADOS DE CAPACIDADE TÉCNICA.pdf",
+              "size": 4761685,
+              "modified": "2025-01-16T16:31:56",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 989047_90005_PREFEITURA MUNICIPAL DE CACERES - MT/21 ATESTADOS DE CAPACIDADE TÉCNICA.pdf"
+            },
+            {
+              "name": "DOCS LICITACOES 2025.zip",
+              "size": 15158643,
+              "modified": "2025-10-15T09:52:46.400415",
+              "type": "file",
+              "extension": ".zip",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 989047_90005_PREFEITURA MUNICIPAL DE CACERES - MT/DOCS LICITACOES 2025.zip"
+            },
+            {
+              "name": "PROPOSTA CACERES 2025.pdf",
+              "size": 450019,
+              "modified": "2025-10-15T09:52:46.442274",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10/UASG 989047_90005_PREFEITURA MUNICIPAL DE CACERES - MT/PROPOSTA CACERES 2025.pdf"
+            }
+          ],
+          "modified": "2025-10-22T10:19:32.345241"
+        }
+      ],
+      "modified": "2025-10-22T10:19:20.165467"
+    },
+    {
+      "name": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510",
+      "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510",
+      "type": "folder",
+      "children": [
+        {
+          "name": "01.HAB. JURIDICA",
+          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/01.HAB. JURIDICA",
+          "type": "folder",
+          "children": [
+            {
+              "name": "7.1.1 - 7.1.2 CONSULTA CEIS - CNEP.pdf",
+              "size": 86897,
+              "modified": "2025-05-22T10:39:26.560783",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/01.HAB. JURIDICA/7.1.1 - 7.1.2 CONSULTA CEIS - CNEP.pdf"
+            },
+            {
+              "name": "7.1.3 LICITANTES INIDÔNEOS PF.pdf",
+              "size": 86570,
+              "modified": "2025-05-22T10:59:52.316470",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/01.HAB. JURIDICA/7.1.3 LICITANTES INIDÔNEOS PF.pdf"
+            },
+            {
+              "name": "7.1.3 LICITANTES INIDÔNEOS PJ.pdf",
+              "size": 85449,
+              "modified": "2025-05-22T10:47:03.398844",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/01.HAB. JURIDICA/7.1.3 LICITANTES INIDÔNEOS PJ.pdf"
+            },
+            {
+              "name": "7.19.8 alvará de localização.pdf",
+              "size": 1205555,
+              "modified": "2025-04-14T09:34:08.093703",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/01.HAB. JURIDICA/7.19.8 alvará de localização.pdf"
+            },
+            {
+              "name": "DOC DO SOCIO E CONTRATO SOCIAL",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/01.HAB. JURIDICA/DOC DO SOCIO E CONTRATO SOCIAL",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "CONTRATO SOCIAL E ALTERAÇÕES.pdf",
+                  "size": 1894890,
+                  "modified": "2024-04-17T12:17:48.750549",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/01.HAB. JURIDICA/DOC DO SOCIO E CONTRATO SOCIAL/CONTRATO SOCIAL E ALTERAÇÕES.pdf"
+                },
+                {
+                  "name": "DOC RAFAEL TOP.pdf",
+                  "size": 362629,
+                  "modified": "2024-03-06T14:26:40.115762",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/01.HAB. JURIDICA/DOC DO SOCIO E CONTRATO SOCIAL/DOC RAFAEL TOP.pdf"
+                },
+                {
+                  "name": "DOCUMENTO RG - CPF.pdf",
+                  "size": 382574,
+                  "modified": "2024-03-01T15:58:11.686876",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/01.HAB. JURIDICA/DOC DO SOCIO E CONTRATO SOCIAL/DOCUMENTO RG - CPF.pdf"
+                },
+                {
+                  "name": "comprovante cpf rafael.pdf",
+                  "size": 64341,
+                  "modified": "2024-04-17T12:03:56.393264",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/01.HAB. JURIDICA/DOC DO SOCIO E CONTRATO SOCIAL/comprovante cpf rafael.pdf"
+                }
+              ],
+              "modified": "2025-10-22T10:18:26.776456"
+            }
+          ],
+          "modified": "2025-10-22T10:18:25.487252"
+        },
+        {
+          "name": "02.REGULARIDADE TRABALHISTA",
+          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA",
+          "type": "folder",
+          "children": [
+            {
+              "name": "7.20.1 CONSULTA CNPJ.pdf",
+              "size": 106637,
+              "modified": "2025-05-22T11:09:35.939204",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.1 CONSULTA CNPJ.pdf"
+            },
+            {
+              "name": "7.20.10 CERTIDÃO PCD MT.pdf",
+              "size": 168033,
+              "modified": "2025-05-22T11:52:07.602425",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.10 CERTIDÃO PCD MT.pdf"
+            },
+            {
+              "name": "7.20.2 CONSULDA FEDERAL PJ 27.10 .pdf",
+              "size": 77784,
+              "modified": "2025-05-22T11:11:43.387266",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.2 CONSULDA FEDERAL PJ 27.10 .pdf"
+            },
+            {
+              "name": "7.20.2 CONSULTA FEDERAL PF .pdf",
+              "size": 77835,
+              "modified": "2025-05-22T11:13:30.459633",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.2 CONSULTA FEDERAL PF .pdf"
+            },
+            {
+              "name": "7.20.3 CONSULTA FGTS.pdf",
+              "size": 81893,
+              "modified": "2025-05-22T11:18:57.744246",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.3 CONSULTA FGTS.pdf"
+            },
+            {
+              "name": "7.20.4 CND TRABALHIS PF.pdf",
+              "size": 86040,
+              "modified": "2025-01-23T10:16:40.291204",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.4 CND TRABALHIS PF.pdf"
+            },
+            {
+              "name": "7.20.4 CND TRABALHISTA PJ.pdf",
+              "size": 86051,
+              "modified": "2025-01-23T10:17:42.323869",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.4 CND TRABALHISTA PJ.pdf"
+            },
+            {
+              "name": "7.20.4 PF Certidões - Certidão Trabalhista 91.007.009.930.pdf",
+              "size": 86718,
+              "modified": "2025-05-22T11:29:05.132592",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.4 PF Certidões - Certidão Trabalhista 91.007.009.930.pdf"
+            },
+            {
+              "name": "7.20.4 PF NOME Certidões - Certidão Trabalhista 91.007.009.930.pdf",
+              "size": 86783,
+              "modified": "2025-05-22T11:34:09.301621",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.4 PF NOME Certidões - Certidão Trabalhista 91.007.009.930.pdf"
+            },
+            {
+              "name": "7.20.4 PJ Certidões - Certidão Trabalhista 91.007.009.930.pdf",
+              "size": 86882,
+              "modified": "2025-05-22T11:28:27.819478",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.4 PJ Certidões - Certidão Trabalhista 91.007.009.930.pdf"
+            },
+            {
+              "name": "7.20.5 CND DEBITOS TRABALHISTA MTP PF.pdf",
+              "size": 22354,
+              "modified": "2025-05-22T11:36:39.572087",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.5 CND DEBITOS TRABALHISTA MTP PF.pdf"
+            },
+            {
+              "name": "7.20.5 CND DEBITOS TRABALHISTA MTP PJ.pdf",
+              "size": 22393,
+              "modified": "2025-05-22T11:35:04.727507",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.5 CND DEBITOS TRABALHISTA MTP PJ.pdf"
+            },
+            {
+              "name": "7.20.6 INS ESTADUAL.pdf",
+              "size": 93164,
+              "modified": "2025-05-22T11:40:06.582143",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.6 INS ESTADUAL.pdf"
+            },
+            {
+              "name": "7.20.6 INS MUNICIPAL.pdf",
+              "size": 1673715,
+              "modified": "2025-05-22T11:41:29.680558",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.6 INS MUNICIPAL.pdf"
+            },
+            {
+              "name": "7.20.7 CND ESTADUAL PF.pdf",
+              "size": 94025,
+              "modified": "2025-05-22T11:46:01.624636",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.7 CND ESTADUAL PF.pdf"
+            },
+            {
+              "name": "7.20.7 CND ESTADUAL PJ.pdf",
+              "size": 97327,
+              "modified": "2025-01-23T10:31:33.967435",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.7 CND ESTADUAL PJ.pdf"
+            },
+            {
+              "name": "7.20.8 CND MUNICIPAL ATE 01-08-2025 PF.pdf",
+              "size": 1659627,
+              "modified": "2025-05-22T11:51:00.906427",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.8 CND MUNICIPAL ATE 01-08-2025 PF.pdf"
+            },
+            {
+              "name": "7.20.8 CND MUNICIPAL ATE 01-08-2025 TOP COMERCIO.pdf",
+              "size": 195519,
+              "modified": "2025-02-03T10:11:25.257149",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/02.REGULARIDADE TRABALHISTA/7.20.8 CND MUNICIPAL ATE 01-08-2025 TOP COMERCIO.pdf"
+            }
+          ],
+          "modified": "2025-10-22T10:18:30.077090"
+        },
+        {
+          "name": "03.QUALIFICAÇÃO ECONOMICA",
+          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA",
+          "type": "folder",
+          "children": [
+            {
+              "name": "7.23.1 AÇÕES DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS PF.pdf",
+              "size": 140807,
+              "modified": "2025-05-22T12:06:33.594221",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.1 AÇÕES DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS PF.pdf"
+            },
+            {
+              "name": "7.23.1 AÇÕES DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS PJ.pdf",
+              "size": 141205,
+              "modified": "2025-05-22T12:04:27.571346",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.1 AÇÕES DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS PJ.pdf"
+            },
+            {
+              "name": "7.23.1 FALENCIA CONCORDATA 04-06 .pdf",
+              "size": 222527,
+              "modified": "2025-04-11T08:50:32.935788",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.1 FALENCIA CONCORDATA 04-06 .pdf"
+            },
+            {
+              "name": "7.23.1 FALÊNCIA E CONCORDATA.pdf",
+              "size": 222224,
+              "modified": "2025-06-06T15:04:55.695748",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.1 FALÊNCIA E CONCORDATA.pdf"
+            },
+            {
+              "name": "7.23.2 DISTRIBUIÇÃO CIVEL PF.pdf",
+              "size": 227073,
+              "modified": "2025-05-22T12:27:40.149957",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.2 DISTRIBUIÇÃO CIVEL PF.pdf"
+            },
+            {
+              "name": "7.23.2 DISTRIBUIÇÃO CIVEL PJ.pdf",
+              "size": 227101,
+              "modified": "2025-05-22T12:26:07.602916",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.2 DISTRIBUIÇÃO CIVEL PJ.pdf"
+            },
+            {
+              "name": "7.23.2 DISTRIBUIÇÃO CRIMINAL PF.pdf",
+              "size": 226994,
+              "modified": "2025-05-22T12:28:10.092986",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.2 DISTRIBUIÇÃO CRIMINAL PF.pdf"
+            },
+            {
+              "name": "7.23.2 DISTRIBUIÇÃO CRIMINAL PJ.pdf",
+              "size": 227037,
+              "modified": "2025-05-22T12:26:45.035407",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.2 DISTRIBUIÇÃO CRIMINAL PJ.pdf"
+            },
+            {
+              "name": "7.23.2 ESPECIAL - AÇÕES CÍVEIS E CRIMINAIS PF.pdf",
+              "size": 140995,
+              "modified": "2025-05-22T12:21:33.435909",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.2 ESPECIAL - AÇÕES CÍVEIS E CRIMINAIS PF.pdf"
+            },
+            {
+              "name": "7.23.2 ESPECIAL - AÇÕES CÍVEIS E CRIMINAIS PJ.pdf",
+              "size": 140862,
+              "modified": "2025-05-22T12:19:51.747126",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.2 ESPECIAL - AÇÕES CÍVEIS E CRIMINAIS PJ.pdf"
+            },
+            {
+              "name": "7.23.5 CARTEIRA CRC - JUNIOR.PDF",
+              "size": 1028092,
+              "modified": "2025-01-23T14:31:57.177671",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.5 CARTEIRA CRC - JUNIOR.PDF"
+            },
+            {
+              "name": "7.23.5 CHP - CND - FOLHA 09.pdf",
+              "size": 467042,
+              "modified": "2025-05-19T14:03:35.757422",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.5 CHP - CND - FOLHA 09.pdf"
+            },
+            {
+              "name": "7.23.5 CHP - FOLHA 08.pdf",
+              "size": 466685,
+              "modified": "2025-05-19T14:03:35.727441",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.5 CHP - FOLHA 08.pdf"
+            },
+            {
+              "name": "7.23.8 CERTIDAO ESPECIFICA.pdf",
+              "size": 155705,
+              "modified": "2025-05-22T11:04:57.251437",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.8 CERTIDAO ESPECIFICA.pdf"
+            },
+            {
+              "name": "7.23.8 CERTIDAO EXISTENCIA DE EMPRESA.pdf",
+              "size": 212414,
+              "modified": "2025-05-22T11:04:57.651733",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.8 CERTIDAO EXISTENCIA DE EMPRESA.pdf"
+            },
+            {
+              "name": "7.23.8 CERTIDAO PARTICIPAÇAO SOCIETARIA  DE PESSOA FICISA EM SOCIEDADE.pdf",
+              "size": 213630,
+              "modified": "2025-05-22T11:04:58.810570",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.8 CERTIDAO PARTICIPAÇAO SOCIETARIA  DE PESSOA FICISA EM SOCIEDADE.pdf"
+            },
+            {
+              "name": "7.23.8 CERTIDAO PARTICIPAÇAO SOCIETARIA  DE PESSOA JURIDICA EM SOCIEDADE.pdf",
+              "size": 145818,
+              "modified": "2025-05-22T11:04:57.648736",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.8 CERTIDAO PARTICIPAÇAO SOCIETARIA  DE PESSOA JURIDICA EM SOCIEDADE.pdf"
+            },
+            {
+              "name": "7.23.9 CERTIDAO INTEIRO TEOR.pdf",
+              "size": 4369065,
+              "modified": "2025-05-22T11:04:56.720343",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/7.23.9 CERTIDAO INTEIRO TEOR.pdf"
+            },
+            {
+              "name": "BALANÇO 2022",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2022",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "BALANCO 2022 - TOP COMÉRCIO E SERVIÇOS LTDA - AUTENTICADA (04-08-2023).pdf",
+                  "size": 296416,
+                  "modified": "2023-10-02T09:41:33.378543",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2022/BALANCO 2022 - TOP COMÉRCIO E SERVIÇOS LTDA - AUTENTICADA (04-08-2023).pdf"
+                },
+                {
+                  "name": "CHP - CND - FOLHA 09 - 2 (29-01-2024 a 31-03-2024).pdf",
+                  "size": 463503,
+                  "modified": "2024-01-31T09:28:37.920905",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2022/CHP - CND - FOLHA 09 - 2 (29-01-2024 a 31-03-2024).pdf"
+                },
+                {
+                  "name": "CHP - FOLHA 08 - 2 (29-01-2024 a 31-03-2024).pdf",
+                  "size": 462727,
+                  "modified": "2024-01-31T09:28:35.589466",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2022/CHP - FOLHA 08 - 2 (29-01-2024 a 31-03-2024).pdf"
+                },
+                {
+                  "name": "CIP-CRC - CONTADOR (carterinha).pdf",
+                  "size": 307031,
+                  "modified": "2023-09-18T11:41:36",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2022/CIP-CRC - CONTADOR (carterinha).pdf"
+                },
+                {
+                  "name": "DIARIO 2022 - N 4 - AUTENTICADO (03-08-2023).pdf",
+                  "size": 230141,
+                  "modified": "2023-10-02T09:41:35.331599",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2022/DIARIO 2022 - N 4 - AUTENTICADO (03-08-2023).pdf"
+                }
+              ],
+              "modified": "2025-10-22T10:18:36.912099"
+            },
+            {
+              "name": "BALANÇO 2023",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2023",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "BALANCO 2023 - TOP COMÉRCIO E SERVIÇOS LTDA - AUTENTICADA.pdf",
+                  "size": 633460,
+                  "modified": "2024-04-17T08:45:53.684172",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2023/BALANCO 2023 - TOP COMÉRCIO E SERVIÇOS LTDA - AUTENTICADA.pdf"
+                },
+                {
+                  "name": "CHP - CND - FOLHA 09 (1).pdf",
+                  "size": 464561,
+                  "modified": "2024-04-17T08:45:54.828183",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2023/CHP - CND - FOLHA 09 (1).pdf"
+                },
+                {
+                  "name": "CHP - FOLHA 08 (2).pdf",
+                  "size": 463361,
+                  "modified": "2024-04-17T08:45:55.581977",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2023/CHP - FOLHA 08 (2).pdf"
+                },
+                {
+                  "name": "DIARIO 2023 - N 5 - AUTENTICADO.pdf",
+                  "size": 236915,
+                  "modified": "2024-04-17T08:45:56.819355",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2023/DIARIO 2023 - N 5 - AUTENTICADO.pdf"
+                }
+              ],
+              "modified": "2025-10-22T10:18:37.838852"
+            },
+            {
+              "name": "BALANÇO 2024",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2024",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "BALANCO 2024 - TOP COMÉRCIO E SERVIÇOS LTDA - AUTENTICADO.pdf",
+                  "size": 607757,
+                  "modified": "2025-05-19T14:03:36.646871",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2024/BALANCO 2024 - TOP COMÉRCIO E SERVIÇOS LTDA - AUTENTICADO.pdf"
+                },
+                {
+                  "name": "DIARIO 2024 - N 6 - AUTENTICADO.pdf",
+                  "size": 251965,
+                  "modified": "2025-05-19T14:03:36.070229",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/BALANÇO 2024/DIARIO 2024 - N 6 - AUTENTICADO.pdf"
+                }
+              ],
+              "modified": "2025-10-22T10:18:38.260102"
+            },
+            {
+              "name": "CERTIDAO SIMPLIFICADA.pdf",
+              "size": 248178,
+              "modified": "2025-05-22T11:04:56.226633",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/CERTIDAO SIMPLIFICADA.pdf"
+            },
+            {
+              "name": "CONSULTA QSA.pdf",
+              "size": 95056,
+              "modified": "2025-05-22T11:10:08.764789",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/03.QUALIFICAÇÃO ECONOMICA/CONSULTA QSA.pdf"
+            }
+          ],
+          "modified": "2025-10-22T10:18:37.957436"
+        },
+        {
+          "name": "04.QUALIFICAÇÃO TECNICA",
+          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA",
+          "type": "folder",
+          "children": [
+            {
+              "name": "ALVARÁ 2025.pdf",
+              "size": 1205555,
+              "modified": "2025-04-14T09:34:08.093703",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/ALVARÁ 2025.pdf"
+            },
+            {
+              "name": "CRR 2026.PDF",
+              "size": 322028,
+              "modified": "2025-05-19T14:55:59.006059",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/CRR 2026.PDF"
+            },
+            {
+              "name": "Comida Pronta",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/Comida Pronta",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "ATESTADO - COMIDA PRONTA - R S DOS SANTOS - TOP (16-08-2023).pdf",
+                  "size": 226904,
+                  "modified": "2023-12-18T15:10:48.717726",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/Comida Pronta/ATESTADO - COMIDA PRONTA - R S DOS SANTOS - TOP (16-08-2023).pdf"
+                }
+              ],
+              "modified": "2025-10-22T10:18:41.867099"
+            },
+            {
+              "name": "GÊNEROS",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "MARTINS",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/MARTINS",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "ATESTADO - GÊNEROS - MARTINS JR - TOP (16-08-2023).pdf",
+                      "size": 187266,
+                      "modified": "2023-09-19T14:32:18",
+                      "type": "file",
+                      "extension": ".pdf",
+                      "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/MARTINS/ATESTADO - GÊNEROS - MARTINS JR - TOP (16-08-2023).pdf"
+                    },
+                    {
+                      "name": "NF 2.729 TOP.pdf",
+                      "size": 179219,
+                      "modified": "2024-02-21T13:25:13.312029",
+                      "type": "file",
+                      "extension": ".pdf",
+                      "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/MARTINS/NF 2.729 TOP.pdf"
+                    },
+                    {
+                      "name": "NF 2.730 TOP.pdf",
+                      "size": 131776,
+                      "modified": "2024-02-21T13:25:14.799891",
+                      "type": "file",
+                      "extension": ".pdf",
+                      "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/MARTINS/NF 2.730 TOP.pdf"
+                    },
+                    {
+                      "name": "NF 2.731 TOP.pdf",
+                      "size": 212557,
+                      "modified": "2024-02-21T13:25:11.295018",
+                      "type": "file",
+                      "extension": ".pdf",
+                      "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/MARTINS/NF 2.731 TOP.pdf"
+                    },
+                    {
+                      "name": "NF 2.733 TOP.pdf",
+                      "size": 129823,
+                      "modified": "2024-02-21T13:25:10.700787",
+                      "type": "file",
+                      "extension": ".pdf",
+                      "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/MARTINS/NF 2.733 TOP.pdf"
+                    }
+                  ],
+                  "modified": "2025-10-22T10:18:42.503825"
+                },
+                {
+                  "name": "SEMED ANANINDEUA",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "SEMED ANANINDEUA",
+                      "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA/SEMED ANANINDEUA",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "ATESTADO DE CAPACIDADE TECNICA SEMED.pdf",
+                          "size": 390436,
+                          "modified": "2025-02-12T10:06:57.806207",
+                          "type": "file",
+                          "extension": ".pdf",
+                          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA/SEMED ANANINDEUA/ATESTADO DE CAPACIDADE TECNICA SEMED.pdf"
+                        },
+                        {
+                          "name": "NFe 126 TOP COMERCIO.pdf",
+                          "size": 51971,
+                          "modified": "2025-01-28T10:13:44.487928",
+                          "type": "file",
+                          "extension": ".pdf",
+                          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA/SEMED ANANINDEUA/NFe 126 TOP COMERCIO.pdf"
+                        },
+                        {
+                          "name": "NFe 127 TOP COMERCIO.pdf",
+                          "size": 51741,
+                          "modified": "2025-01-28T10:13:45.817172",
+                          "type": "file",
+                          "extension": ".pdf",
+                          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA/SEMED ANANINDEUA/NFe 127 TOP COMERCIO.pdf"
+                        },
+                        {
+                          "name": "NFe 128 TOP COMERCIO.pdf",
+                          "size": 51861,
+                          "modified": "2025-01-28T10:13:49.243975",
+                          "type": "file",
+                          "extension": ".pdf",
+                          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA/SEMED ANANINDEUA/NFe 128 TOP COMERCIO.pdf"
+                        },
+                        {
+                          "name": "NFe 129 TOP COMERCIO.pdf",
+                          "size": 55749,
+                          "modified": "2025-01-28T10:13:50.840652",
+                          "type": "file",
+                          "extension": ".pdf",
+                          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA/SEMED ANANINDEUA/NFe 129 TOP COMERCIO.pdf"
+                        },
+                        {
+                          "name": "NFe 130 TOP COMERCIO.pdf",
+                          "size": 55513,
+                          "modified": "2025-01-28T10:13:47.633828",
+                          "type": "file",
+                          "extension": ".pdf",
+                          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA/SEMED ANANINDEUA/NFe 130 TOP COMERCIO.pdf"
+                        },
+                        {
+                          "name": "NFe 131 TOP COMERCIO.pdf",
+                          "size": 25373,
+                          "modified": "2025-01-28T10:13:52.427794",
+                          "type": "file",
+                          "extension": ".pdf",
+                          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA/SEMED ANANINDEUA/NFe 131 TOP COMERCIO.pdf"
+                        },
+                        {
+                          "name": "NFe N° 133 TOP - CRECHE.pdf",
+                          "size": 59849,
+                          "modified": "2025-01-28T10:13:55.537822",
+                          "type": "file",
+                          "extension": ".pdf",
+                          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA/SEMED ANANINDEUA/NFe N° 133 TOP - CRECHE.pdf"
+                        },
+                        {
+                          "name": "NFe N° 134 TOP - QUILOMBOLAS.pdf",
+                          "size": 93326,
+                          "modified": "2025-01-28T10:13:53.965482",
+                          "type": "file",
+                          "extension": ".pdf",
+                          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA/SEMED ANANINDEUA/NFe N° 134 TOP - QUILOMBOLAS.pdf"
+                        },
+                        {
+                          "name": "NFe N° 135 TOP - EJA.pdf",
+                          "size": 86701,
+                          "modified": "2025-01-28T10:18:59.427672",
+                          "type": "file",
+                          "extension": ".pdf",
+                          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA/SEMED ANANINDEUA/NFe N° 135 TOP - EJA.pdf"
+                        },
+                        {
+                          "name": "NFe N° 136 TOP - FUNDAMENTAL.pdf",
+                          "size": 93370,
+                          "modified": "2025-01-28T10:13:57.467613",
+                          "type": "file",
+                          "extension": ".pdf",
+                          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA/SEMED ANANINDEUA/NFe N° 136 TOP - FUNDAMENTAL.pdf"
+                        },
+                        {
+                          "name": "TOP - SEMED.pdf",
+                          "size": 777037,
+                          "modified": "2024-12-19T15:34:41.507338",
+                          "type": "file",
+                          "extension": ".pdf",
+                          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/GÊNEROS/SEMED ANANINDEUA/SEMED ANANINDEUA/TOP - SEMED.pdf"
+                        }
+                      ],
+                      "modified": "2025-10-22T10:18:43.467245"
+                    }
+                  ],
+                  "modified": "2025-10-22T10:18:42.607817"
+                }
+              ],
+              "modified": "2025-10-22T10:18:42.584830"
+            },
+            {
+              "name": "LF VIGILANCIA SANITARIA.pdf",
+              "size": 145600,
+              "modified": "2025-02-26T11:26:46.015807",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/LF VIGILANCIA SANITARIA.pdf"
+            },
+            {
+              "name": "NUTRICIONAISTA - SERGIO CARMIN",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/NUTRICIONAISTA - SERGIO CARMIN",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "ART n°892 (02-01-2024).pdf",
+                  "size": 247793,
+                  "modified": "2024-01-03T09:07:37.861567",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/NUTRICIONAISTA - SERGIO CARMIN/ART n°892 (02-01-2024).pdf"
+                },
+                {
+                  "name": "CONTRATO PRESTACAO DE SERVICO - DOC - NUTRICIONISTA (10-08-2023).pdf",
+                  "size": 1438752,
+                  "modified": "2023-09-25T09:11:20.311789",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/NUTRICIONAISTA - SERGIO CARMIN/CONTRATO PRESTACAO DE SERVICO - DOC - NUTRICIONISTA (10-08-2023).pdf"
+                },
+                {
+                  "name": "CRN NUTRI.pdf",
+                  "size": 147272,
+                  "modified": "2025-05-22T10:08:02.714126",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/NUTRICIONAISTA - SERGIO CARMIN/CRN NUTRI.pdf"
+                }
+              ],
+              "modified": "2025-10-22T10:18:44.659394"
+            },
+            {
+              "name": "RELATORIO  DA EMPRESA TOP.pdf",
+              "size": 4419049,
+              "modified": "2025-05-26T08:52:29.995145",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/RELATORIO  DA EMPRESA TOP.pdf"
+            },
+            {
+              "name": "certificado corpo de bombeiro.pdf",
+              "size": 1072811,
+              "modified": "2025-03-24T09:08:43.774104",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/04.QUALIFICAÇÃO TECNICA/certificado corpo de bombeiro.pdf"
+            }
+          ],
+          "modified": "2025-10-22T10:18:43.805390"
+        },
+        {
+          "name": "05.FICHAS E LAUDOS",
+          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS",
+          "type": "folder",
+          "children": [
+            {
+              "name": "FICHAS TECNICAS",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "01 ITEM FICHA TECNICA CHOCOLATE EM PÓ 50^1 CACAU.pdf",
+                  "size": 154767,
+                  "modified": "2025-05-21T16:38:58.386490",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/01 ITEM FICHA TECNICA CHOCOLATE EM PÓ 50^1 CACAU.pdf"
+                },
+                {
+                  "name": "02  ITEM FICHA AÇÚCAR CRISTAL - ITAMARATI REFINADO.pdf",
+                  "size": 170965,
+                  "modified": "2025-05-21T11:01:31.978916",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/02  ITEM FICHA AÇÚCAR CRISTAL - ITAMARATI REFINADO.pdf"
+                },
+                {
+                  "name": "03 ITEM - FT ARROZ TIPO 1 .pdf",
+                  "size": 158873,
+                  "modified": "2025-05-21T11:20:21.544669",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/03 ITEM - FT ARROZ TIPO 1 .pdf"
+                },
+                {
+                  "name": "04 ITEM- FT ARROZ PARBOILIZADO.pdf",
+                  "size": 131511,
+                  "modified": "2025-05-21T12:54:12.412561",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/04 ITEM- FT ARROZ PARBOILIZADO.pdf"
+                },
+                {
+                  "name": "05 ITEM FICHA BISCOITO DOCE TIPO ROSCA DE COCO E LEITE.pdf",
+                  "size": 95768,
+                  "modified": "2025-05-21T14:41:42.627653",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/05 ITEM FICHA BISCOITO DOCE TIPO ROSCA DE COCO E LEITE.pdf"
+                },
+                {
+                  "name": "06 ITEM FICHA Biscoito Salgado tipo cream cracker- TRIGOLINO.pdf",
+                  "size": 138577,
+                  "modified": "2025-05-21T14:44:53.339492",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/06 ITEM FICHA Biscoito Salgado tipo cream cracker- TRIGOLINO.pdf"
+                },
+                {
+                  "name": "07 ITEM FT CARNE BOVINA – TIPO CHARQUE DIANTEIRO.pdf",
+                  "size": 164561,
+                  "modified": "2025-05-26T09:13:12",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/07 ITEM FT CARNE BOVINA – TIPO CHARQUE DIANTEIRO.pdf"
+                },
+                {
+                  "name": "08 ITEM CARNE BOVINA .pdf",
+                  "size": 264949,
+                  "modified": "2025-05-26T09:15:32",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/08 ITEM CARNE BOVINA .pdf"
+                },
+                {
+                  "name": "09 ITEM - FT CARNE BOVINA IN NATURA MOÍDA (CONGELADA).pdf",
+                  "size": 544311,
+                  "modified": "2025-05-26T10:13:10",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/09 ITEM - FT CARNE BOVINA IN NATURA MOÍDA (CONGELADA).pdf"
+                },
+                {
+                  "name": "10 ITEM - FT CLORIFICO.pdf",
+                  "size": 67878,
+                  "modified": "2025-05-26T10:16:02",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/10 ITEM - FT CLORIFICO.pdf"
+                },
+                {
+                  "name": "11 ITEM - FT COMINHO.pdf",
+                  "size": 188126,
+                  "modified": "2025-05-26T10:17:50",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/11 ITEM - FT COMINHO.pdf"
+                },
+                {
+                  "name": "12 ITEM FICHA FEIJÃO CARIOQUINHA TIPO 1 - CGL^.^.^.^.^.^.^.^.^.^.^^.pdf",
+                  "size": 148072,
+                  "modified": "2025-05-21T18:06:55.004539",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/12 ITEM FICHA FEIJÃO CARIOQUINHA TIPO 1 - CGL^.^.^.^.^.^.^.^.^.^.^^.pdf"
+                },
+                {
+                  "name": "13 ITEM - FT PEITO DE FRANGO.pdf",
+                  "size": 175373,
+                  "modified": "2025-05-26T10:49:14",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/13 ITEM - FT PEITO DE FRANGO.pdf"
+                },
+                {
+                  "name": "14 ITEM- FT FRANGO INTEIRO.pdf",
+                  "size": 99899,
+                  "modified": "2025-05-21T18:09:08.467803",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/14 ITEM- FT FRANGO INTEIRO.pdf"
+                },
+                {
+                  "name": "15 ITEM - FT LEITE EM PO INTEGRAL.pdf",
+                  "size": 183262,
+                  "modified": "2025-05-21T16:17:10.284622",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/15 ITEM - FT LEITE EM PO INTEGRAL.pdf"
+                },
+                {
+                  "name": "16 ITEM MACARRÃO SEMOLA TIPO ESPAGUETE.pdf",
+                  "size": 133180,
+                  "modified": "2025-05-21T16:45:54.903059",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/16 ITEM MACARRÃO SEMOLA TIPO ESPAGUETE.pdf"
+                },
+                {
+                  "name": "17 ITEM - FT MACARRÃO PADRE NOSSO.pdf",
+                  "size": 134055,
+                  "modified": "2025-05-21T16:48:54.798185",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/17 ITEM - FT MACARRÃO PADRE NOSSO.pdf"
+                },
+                {
+                  "name": "18 ITEM - FT MILHO BRANCO.pdf",
+                  "size": 148107,
+                  "modified": "2025-05-21T16:51:51.630806",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/18 ITEM - FT MILHO BRANCO.pdf"
+                },
+                {
+                  "name": "19 ITEM FT EVILHA E MILHO.pdf",
+                  "size": 147204,
+                  "modified": "2025-05-21T18:13:34",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/19 ITEM FT EVILHA E MILHO.pdf"
+                },
+                {
+                  "name": "20 ITEM- FT MILHO PRA PIPOCA.pdf",
+                  "size": 94307,
+                  "modified": "2025-05-21T16:52:56.481891",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/20 ITEM- FT MILHO PRA PIPOCA.pdf"
+                },
+                {
+                  "name": "21 ITEM - FT EXTRATO DE TOMATE.pdf",
+                  "size": 62645,
+                  "modified": "2025-05-26T10:50:52.648643",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/21 ITEM - FT EXTRATO DE TOMATE.pdf"
+                },
+                {
+                  "name": "22 ITEM - FT OLEO DE SOJA REFINADO.pdf",
+                  "size": 66731,
+                  "modified": "2025-05-26T11:13:54",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/22 ITEM - FT OLEO DE SOJA REFINADO.pdf"
+                },
+                {
+                  "name": "23 ITEM  SAL REFINADO IODADO -MARIZA.pdf",
+                  "size": 110657,
+                  "modified": "2025-05-21T17:10:03",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/23 ITEM  SAL REFINADO IODADO -MARIZA.pdf"
+                },
+                {
+                  "name": "24 ITEM - FT VINAGRE .pdf",
+                  "size": 107918,
+                  "modified": "2025-05-26T11:17:49",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/FICHAS TECNICAS/24 ITEM - FT VINAGRE .pdf"
+                }
+              ],
+              "modified": "2025-10-22T10:18:48.051887"
+            },
+            {
+              "name": "LAUDO TECNICO",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "01- 094 - 2025  achocolatado em pó assinado.pdf",
+                  "size": 328075,
+                  "modified": "2025-05-23T12:02:13.023805",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/01- 094 - 2025  achocolatado em pó assinado.pdf"
+                },
+                {
+                  "name": "02- 095 - 2025   açúcar cristal assinado.pdf",
+                  "size": 326666,
+                  "modified": "2025-05-23T12:02:13.026801",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/02- 095 - 2025   açúcar cristal assinado.pdf"
+                },
+                {
+                  "name": "03- 096 - 2025  arroz branco tipo1 polido assinado.pdf",
+                  "size": 328927,
+                  "modified": "2025-05-26T10:11:43.250039",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/03- 096 - 2025  arroz branco tipo1 polido assinado.pdf"
+                },
+                {
+                  "name": "04- 097 - 2025  arroz  parboilizado assinado.pdf",
+                  "size": 329308,
+                  "modified": "2025-05-23T12:02:13.952574",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/04- 097 - 2025  arroz  parboilizado assinado.pdf"
+                },
+                {
+                  "name": "05- 098 - 2025 biscoito  rosquinha de coco assinado.pdf",
+                  "size": 329465,
+                  "modified": "2025-05-23T12:02:13.956573",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/05- 098 - 2025 biscoito  rosquinha de coco assinado.pdf"
+                },
+                {
+                  "name": "06- 099 - 2025  biscoito slagado cream cracker assinado.pdf",
+                  "size": 329821,
+                  "modified": "2025-05-23T12:02:14.409293",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/06- 099 - 2025  biscoito slagado cream cracker assinado.pdf"
+                },
+                {
+                  "name": "07- 084 - 2025  charque bovino dianteiro assinado.pdf",
+                  "size": 330555,
+                  "modified": "2025-04-09T15:46:58.534372",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/07- 084 - 2025  charque bovino dianteiro assinado.pdf"
+                },
+                {
+                  "name": "07- SIF BELLO CHARQUE.pdf",
+                  "size": 146383,
+                  "modified": "2025-04-08T16:54:42.506864",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/07- SIF BELLO CHARQUE.pdf"
+                },
+                {
+                  "name": "08- 092 - 2025  paleta assinado.pdf",
+                  "size": 331432,
+                  "modified": "2025-04-09T15:47:03.013264",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/08- 092 - 2025  paleta assinado.pdf"
+                },
+                {
+                  "name": "08- SIF QUALTY.pdf",
+                  "size": 185388,
+                  "modified": "2025-04-05T17:37:18.915749",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/08- SIF QUALTY.pdf"
+                },
+                {
+                  "name": "09- 091 - 2025  carne moida bovina assinado.pdf",
+                  "size": 330714,
+                  "modified": "2025-04-09T15:47:02.774795",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/09- 091 - 2025  carne moida bovina assinado.pdf"
+                },
+                {
+                  "name": "09- SIF QUALTY 4413.pdf",
+                  "size": 197753,
+                  "modified": "2025-04-05T17:42:00.889014",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/09- SIF QUALTY 4413.pdf"
+                },
+                {
+                  "name": "10- 068 - 2025  colorifico assinado.pdf",
+                  "size": 328499,
+                  "modified": "2025-04-09T15:48:14.155981",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/10- 068 - 2025  colorifico assinado.pdf"
+                },
+                {
+                  "name": "11- 069- 2025  cominho moído assinado.pdf",
+                  "size": 328502,
+                  "modified": "2025-04-09T15:48:14.511279",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/11- 069- 2025  cominho moído assinado.pdf"
+                },
+                {
+                  "name": "12- 100 - 2025  feijão carioquinha assinado.pdf",
+                  "size": 325462,
+                  "modified": "2025-05-23T12:02:14.409293",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/12- 100 - 2025  feijão carioquinha assinado.pdf"
+                },
+                {
+                  "name": "13- 087 - 2025  Filé peito de frango sem osso assinado.pdf",
+                  "size": 331738,
+                  "modified": "2025-04-09T15:46:59.546537",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/13- 087 - 2025  Filé peito de frango sem osso assinado.pdf"
+                },
+                {
+                  "name": "13- SIF FRANGO FRIATO.pdf",
+                  "size": 199022,
+                  "modified": "2025-04-08T16:51:58.817036",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/13- SIF FRANGO FRIATO.pdf"
+                },
+                {
+                  "name": "14- 106  - 2025 frango inteiro congelado assinado.pdf",
+                  "size": 330320,
+                  "modified": "2025-05-23T12:02:15.633540",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/14- 106  - 2025 frango inteiro congelado assinado.pdf"
+                },
+                {
+                  "name": "14- SIE FRANGO INTEIRO AMERICANO.pdf",
+                  "size": 104798,
+                  "modified": "2025-06-06T14:53:50.663711",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/14- SIE FRANGO INTEIRO AMERICANO.pdf"
+                },
+                {
+                  "name": "15- 079 -2025  leite integral assinado.pdf",
+                  "size": 330114,
+                  "modified": "2025-04-09T15:47:24.449144",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/15- 079 -2025  leite integral assinado.pdf"
+                },
+                {
+                  "name": "15- SIF INTEGRAL ITAMBÉ.pdf",
+                  "size": 161963,
+                  "modified": "2025-04-05T14:58:53.878925",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/15- SIF INTEGRAL ITAMBÉ.pdf"
+                },
+                {
+                  "name": "16- 101 - 2025  macarrão semola tipo espaguete assinado.pdf",
+                  "size": 328220,
+                  "modified": "2025-05-23T12:02:15.320731",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/16- 101 - 2025  macarrão semola tipo espaguete assinado.pdf"
+                },
+                {
+                  "name": "17- 102 - 2025  macarrão semola tipo padre nosso assinado.pdf",
+                  "size": 327333,
+                  "modified": "2025-05-23T12:02:15.604557",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/17- 102 - 2025  macarrão semola tipo padre nosso assinado.pdf"
+                },
+                {
+                  "name": "18- 103 - 2025  milho branco assinado.pdf",
+                  "size": 327225,
+                  "modified": "2025-05-23T12:02:15.604557",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/18- 103 - 2025  milho branco assinado.pdf"
+                },
+                {
+                  "name": "19- 107 - 2025  dueto em conserva - ervilha e milho assinado.pdf",
+                  "size": 325573,
+                  "modified": "2025-05-23T12:02:16.305677",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/19- 107 - 2025  dueto em conserva - ervilha e milho assinado.pdf"
+                },
+                {
+                  "name": "20- 104 - 2025  milho para pipoca assinado.pdf",
+                  "size": 327550,
+                  "modified": "2025-05-23T12:02:15.603557",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/20- 104 - 2025  milho para pipoca assinado.pdf"
+                },
+                {
+                  "name": "21- 072 - 2025  extrato de tomate concentrado assinado.pdf",
+                  "size": 327848,
+                  "modified": "2025-04-09T15:48:15.617517",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/21- 072 - 2025  extrato de tomate concentrado assinado.pdf"
+                },
+                {
+                  "name": "22- 074 - 2025  Óleo de soja assinado.pdf",
+                  "size": 167225,
+                  "modified": "2025-05-26T11:37:02.077255",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/22- 074 - 2025  Óleo de soja assinado.pdf"
+                },
+                {
+                  "name": "23- 105 - 2025  sal refinado assinado.pdf",
+                  "size": 325540,
+                  "modified": "2025-05-23T12:02:15.605556",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/23- 105 - 2025  sal refinado assinado.pdf"
+                },
+                {
+                  "name": "24- 075 - 2025   vinagre de alcool assinado.pdf",
+                  "size": 324882,
+                  "modified": "2025-04-09T15:48:16.807372",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/05.FICHAS E LAUDOS/LAUDO TECNICO/24- 075 - 2025   vinagre de alcool assinado.pdf"
+                }
+              ],
+              "modified": "2025-10-22T10:18:53.315903"
+            }
+          ],
+          "modified": "2025-10-22T10:18:48.086768"
+        },
+        {
+          "name": "06.DECLARAÇÃO",
+          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/06.DECLARAÇÃO",
+          "type": "folder",
+          "children": [
+            {
+              "name": "7.24.10 DECLARAÇÃO DE RESPONSABILIDADE PELO TRANSPORTE .pdf",
+              "size": 1962754,
+              "modified": "2025-05-26T10:40:17.096677",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/06.DECLARAÇÃO/7.24.10 DECLARAÇÃO DE RESPONSABILIDADE PELO TRANSPORTE .pdf"
+            },
+            {
+              "name": "7.24.8-7.24.19 DECLARAÇÃO.pdf",
+              "size": 1998947,
+              "modified": "2025-05-26T10:41:21.394653",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/06.DECLARAÇÃO/7.24.8-7.24.19 DECLARAÇÃO.pdf"
+            },
+            {
+              "name": "7.24.9 DECLARAÇÃO DE COMPROMISSO DE FORNECIMENTO .pdf",
+              "size": 1962778,
+              "modified": "2025-05-26T10:39:26.414189",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/06.DECLARAÇÃO/7.24.9 DECLARAÇÃO DE COMPROMISSO DE FORNECIMENTO .pdf"
+            },
+            {
+              "name": "7.25.6 DECLARAÇÃO.pdf",
+              "size": 167919,
+              "modified": "2025-06-02T10:51:09.412529",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/06.DECLARAÇÃO/7.25.6 DECLARAÇÃO.pdf"
+            },
+            {
+              "name": "DECLARAÇÃO UNIFICADA.pdf",
+              "size": 2069560,
+              "modified": "2025-05-26T08:52:15.658162",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/06.DECLARAÇÃO/DECLARAÇÃO UNIFICADA.pdf"
+            }
+          ],
+          "modified": "2025-10-22T10:18:56.513564"
+        },
+        {
+          "name": "07.PROPOSTA",
+          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/07.PROPOSTA",
+          "type": "folder",
+          "children": [
+            {
+              "name": "PROPOSTA FINAL.pdf",
+              "size": 2483504,
+              "modified": "2025-06-09T12:59:55.946136",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/07.PROPOSTA/PROPOSTA FINAL.pdf"
+            }
+          ],
+          "modified": "2025-10-22T10:18:57.444159"
+        },
+        {
+          "name": "Cnpj.pdf",
+          "size": 286215,
+          "modified": "2025-10-13T08:47:45.397625",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/Cnpj.pdf"
+        },
+        {
+          "name": "DocumentosFornecedorNaLicitacao-388706-38014128000187.zip",
+          "size": 66626453,
+          "modified": "2025-10-13T08:58:24.655560",
+          "type": "file",
+          "extension": ".zip",
+          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/DocumentosFornecedorNaLicitacao-388706-38014128000187.zip"
+        },
+        {
+          "name": "PROPOSTA AJUSTADA.pdf",
+          "size": 2449562,
+          "modified": "2025-06-10T14:22:14",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/PROPOSTA AJUSTADA.pdf"
+        },
+        {
+          "name": "QSA.pdf",
+          "size": 108405,
+          "modified": "2025-10-13T08:48:00.451333",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "TOP COMERCIO E SERVICOS LTDA_38014128000187_Status_1510/QSA.pdf"
+        }
+      ],
+      "modified": "2025-10-22T10:18:57.419819"
+    }
+  ]
+}

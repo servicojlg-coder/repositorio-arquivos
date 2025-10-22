@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Repositório de Arquivos - Sistema de Busca</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #f5f5f5;
+            color: #333;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .header h1 {
+            font-size: 1.8rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 0.95rem;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .search-box {
+            background: white;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 1rem;
+            font-size: 1rem;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            transition: all 0.3s;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .breadcrumb {
+            background: white;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .breadcrumb-item {
+            color: #667eea;
+            cursor: pointer;
+            font-weight: 500;
+        }
+
+        .breadcrumb-item:hover {
+            text-decoration: underline;
+        }
+
+        .breadcrumb-separator {
+            color: #999;
+        }
+
+        .explorer {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .explorer-header {
+            background: #f8f9fa;
+            padding: 1rem 1.5rem;
+            border-bottom: 1px solid #e0e0e0;
+            display: grid;
+            grid-template-columns: 1fr 150px 180px;
+            gap: 1rem;
+            font-weight: 600;
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .item {
+            padding: 1rem 1.5rem;
+            border-bottom: 1px solid #f0f0f0;
+            display: grid;
+            grid-template-columns: 1fr 150px 180px;
+            gap: 1rem;
+            align-items: center;
+            transition: background 0.2s;
+            cursor: pointer;
+        }
+
+        .item:hover {
+            background: #f8f9ff;
+        }
+
+        .item:last-child {
+            border-bottom: none;
+        }
+
+        .item-name {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-weight: 500;
+        }
+
+        .icon {
+            width: 24px;
+            height: 24px;
+            flex-shrink: 0;
+        }
+
+        .folder-icon {
+            color: #FFA500;
+            font-size: 1.5rem;
+        }
+
+        .file-icon {
+            color: #E53E3E;
+            font-size: 1.5rem;
+        }
+
+        .zip-icon {
+            color: #805AD5;
+            font-size: 1.5rem;
+        }
+
+        .item-size {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .item-date {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .empty-state {
+            padding: 4rem;
+            text-align: center;
+            color: #999;
+        }
+
+        .empty-state-icon {
+            font-size: 4rem;
+            margin-bottom: 1rem;
+            opacity: 0.3;
+        }
+
+        .loading {
+            padding: 4rem;
+            text-align: center;
+            color: #667eea;
+        }
+
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .stats {
+            background: white;
+            padding: 1rem 1.5rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .download-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: background 0.2s;
+        }
+
+        .download-btn:hover {
+            background: #5568d3;
+        }
+
+        .highlight {
+            background-color: #ffd700;
+            padding: 2px 0;
+        }
+
+        @media (max-width: 768px) {
+            .explorer-header, .item {
+                grid-template-columns: 1fr;
+            }
+            
+            .item-size, .item-date {
+                font-size: 0.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📁 Repositório de Arquivos</h1>
+        <p>Sistema de busca e navegação de documentos</p>
+    </div>
+
+    <div class="container">
+        <div class="search-box">
+            <input 
+                type="text" 
+                id="searchInput" 
+                class="search-input" 
+                placeholder="🔍 Buscar por nome do cliente ou CNPJ... (ex: TERRACO ou 15.839.921)"
+            >
+        </div>
+
+        <div id="stats" class="stats" style="display: none;"></div>
+
+        <div id="breadcrumb" class="breadcrumb" style="display: none;"></div>
+
+        <div class="explorer">
+            <div class="explorer-header">
+                <div>Nome</div>
+                <div>Tamanho</div>
+                <div>Data Modificação</div>
+            </div>
+            <div id="fileList">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Carregando repositório...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let fileData = null;
+        let currentPath = [];
+        let searchTerm = '';
+
+        // URL do arquivo JSON no GitHub (VOCÊ DEVE ALTERAR ISSO)
+        const JSON_URL = 'file_index.json'; // Para teste local
+        // const JSON_URL = 'https://github.com/servicojlg-coder/repositorio-/main/file_index.json';
+
+        async function loadFileIndex() {
+            try {
+                const response = await fetch(JSON_URL);
+                fileData = await response.json();
+                renderView();
+            } catch (error) {
+                document.getElementById('fileList').innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">❌</div>
+                        <p>Erro ao carregar o índice de arquivos.</p>
+                        <p style="font-size: 0.9rem; margin-top: 0.5rem;">Verifique se o arquivo file_index.json existe e está acessível.</p>
+                    </div>
+                `;
+            }
+        }
+
+        function getCurrentItems() {
+            let items = fileData.structure;
+            for (let folder of currentPath) {
+                const found = items.find(item => item.name === folder && item.type === 'folder');
+                if (found && found.children) {
+                    items = found.children;
+                }
+            }
+            return items;
+        }
+
+        function searchInStructure(items, term) {
+            let results = [];
+            const lowerTerm = term.toLowerCase();
+
+            for (let item of items) {
+                const matchName = item.name.toLowerCase().includes(lowerTerm);
+                const matchPath = item.path && item.path.toLowerCase().includes(lowerTerm);
+
+                if (matchName || matchPath) {
+                    results.push({...item, matchedPath: item.path || item.name});
+                }
+
+                if (item.type === 'folder' && item.children) {
+                    results = results.concat(searchInStructure(item.children, term));
+                }
+            }
+
+            return results;
+        }
+
+        function formatSize(bytes) {
+            if (!bytes) return '-';
+            const units = ['B', 'KB', 'MB', 'GB'];
+            let size = bytes;
+            let unitIndex = 0;
+            while (size >= 1024 && unitIndex < units.length - 1) {
+                size /= 1024;
+                unitIndex++;
+            }
+            return `${size.toFixed(2)} ${units[unitIndex]}`;
+        }
+
+        function formatDate(isoDate) {
+            if (!isoDate) return '-';
+            const date = new Date(isoDate);
+            return date.toLocaleString('pt-BR', {
+                day: '2-digit',
+                month: '2-digit',
+                year: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
+        function highlightText(text, term) {
+            if (!term) return text;
+            const regex = new RegExp(`(${term})`, 'gi');
+            return text.replace(regex, '<span class="highlight">$1</span>');
+        }
+
+        function renderBreadcrumb() {
+            const breadcrumb = document.getElementById('breadcrumb');
+            if (currentPath.length === 0 && !searchTerm) {
+                breadcrumb.style.display = 'none';
+                return;
+            }
+
+            breadcrumb.style.display = 'flex';
+            let html = '<span class="breadcrumb-item" onclick="navigateToRoot()">🏠 Início</span>';
+
+            currentPath.forEach((folder, index) => {
+                html += '<span class="breadcrumb-separator">›</span>';
+                html += `<span class="breadcrumb-item" onclick="navigateToPath(${index})">${folder}</span>`;
+            });
+
+            if (searchTerm) {
+                html += '<span class="breadcrumb-separator">›</span>';
+                html += `<span style="color: #999;">🔍 Resultados: "${searchTerm}"</span>`;
+            }
+
+            breadcrumb.innerHTML = html;
+        }
+
+        function renderStats() {
+            const stats = document.getElementById('stats');
+            if (!fileData) {
+                stats.style.display = 'none';
+                return;
+            }
+
+            stats.style.display = 'block';
+            const lastUpdate = new Date(fileData.generated_at).toLocaleString('pt-BR');
+            stats.innerHTML = `📊 Total de itens: ${fileData.total_items} | Última atualização: ${lastUpdate}`;
+        }
+
+        function renderView() {
+            const fileList = document.getElementById('fileList');
+            renderBreadcrumb();
+            renderStats();
+
+            let items;
+            if (searchTerm) {
+                items = searchInStructure(fileData.structure, searchTerm);
+                items.sort((a, b) => {
+                    if (a.type !== b.type) return a.type === 'folder' ? -1 : 1;
+                    return a.name.localeCompare(b.name);
+                });
+            } else {
+                items = getCurrentItems();
+                items.sort((a, b) => {
+                    if (a.type !== b.type) return a.type === 'folder' ? -1 : 1;
+                    return a.name.localeCompare(b.name);
+                });
+            }
+
+            if (items.length === 0) {
+                fileList.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">📂</div>
+                        <p>Nenhum item encontrado</p>
+                    </div>
+                `;
+                return;
+            }
+
+            let html = '';
+            items.forEach(item => {
+                const icon = item.type === 'folder' ? '📁' : (item.extension === '.pdf' ? '📄' : '📦');
+                const iconClass = item.type === 'folder' ? 'folder-icon' : (item.extension === '.pdf' ? 'file-icon' : 'zip-icon');
+                const displayName = searchTerm ? highlightText(item.matchedPath || item.name, searchTerm) : item.name;
+                const onclick = item.type === 'folder' ? `onclick="openFolder('${item.name}')"` : '';
+                
+                html += `
+                    <div class="item" ${onclick}>
+                        <div class="item-name">
+                            <span class="${iconClass}">${icon}</span>
+                            <span>${displayName}</span>
+                        </div>
+                        <div class="item-size">${formatSize(item.size)}</div>
+                        <div class="item-date">
+                            ${formatDate(item.modified)}
+                            ${item.type === 'file' ? `<button class="download-btn" onclick="event.stopPropagation(); downloadFile('${item.path}', '${item.name}')">⬇ Download</button>` : ''}
+                        </div>
+                    </div>
+                `;
+            });
+
+            fileList.innerHTML = html;
+        }
+
+        function openFolder(folderName) {
+            if (searchTerm) {
+                searchTerm = '';
+                document.getElementById('searchInput').value = '';
+            }
+            currentPath.push(folderName);
+            renderView();
+        }
+
+        function navigateToRoot() {
+            currentPath = [];
+            searchTerm = '';
+            document.getElementById('searchInput').value = '';
+            renderView();
+        }
+
+        function navigateToPath(index) {
+            currentPath = currentPath.slice(0, index + 1);
+            searchTerm = '';
+            document.getElementById('searchInput').value = '';
+            renderView();
+        }
+
+        function downloadFile(filePath, fileName) {
+            // Para GitHub Pages, construa a URL base do seu repositório
+            // const baseURL = 'https://github.com/servicojlg-coder/repositorio-/main/repositorio/';
+            // const downloadURL = baseURL + filePath;
+            
+            alert(`Download do arquivo: ${fileName}\n\nPara funcionar no GitHub Pages, você precisa:\n1. Fazer upload dos arquivos para o repositório\n2. Configurar a URL base no código`);
+            
+            // Descomente quando configurar o GitHub:
+            // window.open(downloadURL, '_blank');
+        }
+
+        // Event Listener para busca
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            searchTerm = e.target.value.trim();
+            currentPath = [];
+            renderView();
+        });
+
+        // Carrega o índice ao iniciar
+        loadFileIndex();
+    </script>
+</body>
+</html>
