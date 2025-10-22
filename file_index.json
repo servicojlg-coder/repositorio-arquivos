@@ -1,8 +1,3141 @@
 {
-  "generated_at": "2025-10-22T10:54:43.067045",
-  "base_path": "D:\\Sistema_Arquivos\\repositorio",
-  "total_items": 191,
+  "generated_at": "2025-10-22T11:40:01.674318",
+  "base_path": "D:\\repositorio_arquivos\\repositorio",
+  "total_items": 583,
   "structure": [
+    {
+      "name": "Allecrim_25.047.7920001-80_Status_1510",
+      "path": "Allecrim_25.047.7920001-80_Status_1510",
+      "type": "folder",
+      "children": [
+        {
+          "name": "AtaProcedimentoLei14133 (1).pdf",
+          "size": 133973,
+          "modified": "2025-10-10T14:32:04.589396",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "Allecrim_25.047.7920001-80_Status_1510/AtaProcedimentoLei14133 (1).pdf"
+        },
+        {
+          "name": "AtaProcedimentoLei14133.pdf",
+          "size": 131532,
+          "modified": "2025-10-10T14:32:03.383121",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "Allecrim_25.047.7920001-80_Status_1510/AtaProcedimentoLei14133.pdf"
+        },
+        {
+          "name": "AtaProcedimentoLoteLei14133.pdf",
+          "size": 133403,
+          "modified": "2025-10-10T14:32:06.707522",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "Allecrim_25.047.7920001-80_Status_1510/AtaProcedimentoLoteLei14133.pdf"
+        },
+        {
+          "name": "CNPJ.pdf",
+          "size": 153152,
+          "modified": "2025-10-10T14:16:55.325576",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "Allecrim_25.047.7920001-80_Status_1510/CNPJ.pdf"
+        },
+        {
+          "name": "SEJUSP_Presidio_UBA_MG.pdf",
+          "size": 94347,
+          "modified": "2025-10-10T14:27:04.830072",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "Allecrim_25.047.7920001-80_Status_1510/SEJUSP_Presidio_UBA_MG.pdf"
+        }
+      ],
+      "modified": "2025-10-22T11:22:33.128394"
+    },
+    {
+      "name": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510",
+      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510",
+      "type": "folder",
+      "children": [
+        {
+          "name": "1 - FUNDO DE URBANIZAÇÃO DE LONDRINA_Capina_rocagem",
+          "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/1 - FUNDO DE URBANIZAÇÃO DE LONDRINA_Capina_rocagem",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Contrato_0152023___FUL__Capina__Lote_1__Regio_Norte.pdf",
+              "size": 1047914,
+              "modified": "2025-10-02T13:42:12.988290",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/1 - FUNDO DE URBANIZAÇÃO DE LONDRINA_Capina_rocagem/Contrato_0152023___FUL__Capina__Lote_1__Regio_Norte.pdf"
+            }
+          ],
+          "modified": "2025-10-22T11:22:36.987310"
+        },
+        {
+          "name": "1031020 - GESEG_Limpeza_MG",
+          "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/1031020 - GESEG_Limpeza_MG",
+          "type": "folder",
+          "children": [
+            {
+              "name": "ArquivoContrato9129785487506944226.pdf",
+              "size": 513133,
+              "modified": "2025-10-02T13:35:06.470210",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/1031020 - GESEG_Limpeza_MG/ArquivoContrato9129785487506944226.pdf"
+            }
+          ],
+          "modified": "2025-10-22T11:22:37.737869"
+        },
+        {
+          "name": "200366 - DIVISAO DE POLICIA FEDERAL - FOZ DO IGUACUPR_APOIO",
+          "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/200366 - DIVISAO DE POLICIA FEDERAL - FOZ DO IGUACUPR_APOIO",
+          "type": "folder",
+          "children": [
+            {
+              "name": "6LrCkn8jRyNJdTugCBXiOADUkfEqKpS8PZIzOeZz.pdf",
+              "size": 22687,
+              "modified": "2025-10-02T13:33:03.989348",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/200366 - DIVISAO DE POLICIA FEDERAL - FOZ DO IGUACUPR_APOIO/6LrCkn8jRyNJdTugCBXiOADUkfEqKpS8PZIzOeZz.pdf"
+            },
+            {
+              "name": "XErkUmriq3ldSpLjGWFXczjMPaFmqiRDXT9l0S70.pdf",
+              "size": 163825,
+              "modified": "2025-10-02T13:33:03.331280",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/200366 - DIVISAO DE POLICIA FEDERAL - FOZ DO IGUACUPR_APOIO/XErkUmriq3ldSpLjGWFXczjMPaFmqiRDXT9l0S70.pdf"
+            }
+          ],
+          "modified": "2025-10-22T11:22:38.081029"
+        },
+        {
+          "name": "2025.000131.42101.01CONTRATOCOSTAOESTESERVIOSLTDAL2Ass..pdf",
+          "size": 11625014,
+          "modified": "2025-10-02T12:25:31.208002",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/2025.000131.42101.01CONTRATOCOSTAOESTESERVIOSLTDAL2Ass..pdf"
+        },
+        {
+          "name": "926415 - TRIBUNAL DE JUSTIÇA ESTADO DO PARANA_Limpeza",
+          "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/926415 - TRIBUNAL DE JUSTIÇA ESTADO DO PARANA_Limpeza",
+          "type": "folder",
+          "children": [
+            {
+              "name": "C352024.pdf",
+              "size": 456570,
+              "modified": "2025-10-02T13:44:04.784153",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/926415 - TRIBUNAL DE JUSTIÇA ESTADO DO PARANA_Limpeza/C352024.pdf"
+            },
+            {
+              "name": "TermodeReferenciaContrato352024.pdf",
+              "size": 1013840,
+              "modified": "2025-10-02T13:44:05.888211",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/926415 - TRIBUNAL DE JUSTIÇA ESTADO DO PARANA_Limpeza/TermodeReferenciaContrato352024.pdf"
+            }
+          ],
+          "modified": "2025-10-22T11:22:38.426883"
+        },
+        {
+          "name": "928214 - TERMINAIS AÉREOS DE MARINGÁ SA - PR_Conservao_Limpeza",
+          "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/928214 - TERMINAIS AÉREOS DE MARINGÁ SA - PR_Conservao_Limpeza",
+          "type": "folder",
+          "children": [],
+          "modified": "2025-10-22T11:22:38.881460"
+        },
+        {
+          "name": "Governo_Parana",
+          "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Governo_Parana",
+          "type": "folder",
+          "children": [],
+          "modified": "2025-10-22T11:22:39.524610"
+        },
+        {
+          "name": "MUNICIPIO DE MARECHAL CANDIDO RONDON_obra de implantacao",
+          "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/MUNICIPIO DE MARECHAL CANDIDO RONDON_obra de implantacao",
+          "type": "folder",
+          "children": [
+            {
+              "name": "_var_www_html_marechalcandidorondon.atende.net_temp_WCO_PNCP_Contrato_Contrato_3092025__Dispensa_232025.pdf",
+              "size": 12821071,
+              "modified": "2025-10-02T13:36:41.211010",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/MUNICIPIO DE MARECHAL CANDIDO RONDON_obra de implantacao/_var_www_html_marechalcandidorondon.atende.net_temp_WCO_PNCP_Contrato_Contrato_3092025__Dispensa_232025.pdf"
+            }
+          ],
+          "modified": "2025-10-22T11:22:39.655195"
+        },
+        {
+          "name": "PM_ENTRE RIOS DO OESTE__TRANSPORTE_985529_90075",
+          "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/PM_ENTRE RIOS DO OESTE__TRANSPORTE_985529_90075",
+          "type": "folder",
+          "children": [
+            {
+              "name": "HABILITACAO COSTA.zip",
+              "size": 20266684,
+              "modified": "2025-10-02T13:30:21.713744",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/PM_ENTRE RIOS DO OESTE__TRANSPORTE_985529_90075/HABILITACAO COSTA.zip"
+            },
+            {
+              "name": "PROPOSTA.zip",
+              "size": 1023786,
+              "modified": "2025-10-02T13:30:16.301615",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/PM_ENTRE RIOS DO OESTE__TRANSPORTE_985529_90075/PROPOSTA.zip"
+            }
+          ],
+          "modified": "2025-10-22T11:22:49.785152"
+        },
+        {
+          "name": "Santa_Cataria",
+          "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria",
+          "type": "folder",
+          "children": [
+            {
+              "name": "2021CT001874",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2021CT001874",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2021CT001874_3_document(24).pdf",
+                  "size": 1092340,
+                  "modified": "2025-10-02T15:36:37.301323",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2021CT001874/2021CT001874_3_document(24).pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 22153766,
+                  "modified": "2025-10-02T15:39:56.558242",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2021CT001874/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:25:43.177656"
+            },
+            {
+              "name": "2021CT001874.zip",
+              "size": 22597984,
+              "modified": "2025-10-02T19:25:28.077129",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2021CT001874.zip"
+            },
+            {
+              "name": "2021CT004908",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2021CT004908",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2021CT004908_1_Contrato_431_2021_COSTA_OESTE.pdf",
+                  "size": 896931,
+                  "modified": "2025-10-02T15:08:00.267089",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2021CT004908/2021CT004908_1_Contrato_431_2021_COSTA_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_tela.pdf",
+                  "size": 44040192,
+                  "modified": "2025-10-02T15:23:09.407324",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2021CT004908/Extrato_tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:25:51.213741"
+            },
+            {
+              "name": "2021CT004908.zip",
+              "size": 44301415,
+              "modified": "2025-10-02T19:25:49.705376",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2021CT004908.zip"
+            },
+            {
+              "name": "2021CT004949",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2021CT004949",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2021CT004949_1_Contrato_434_2021_COSTA_OESTE.pdf",
+                  "size": 6398638,
+                  "modified": "2025-10-02T15:09:27.784390",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2021CT004949/2021CT004949_1_Contrato_434_2021_COSTA_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 31457280,
+                  "modified": "2025-10-02T15:23:19.017342",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2021CT004949/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:26:07.672334"
+            },
+            {
+              "name": "2021CT004949_N.zip",
+              "size": 37423856,
+              "modified": "2025-10-02T19:25:55.186338",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2021CT004949_N.zip"
+            },
+            {
+              "name": "2022CT000745",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2022CT000745",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2022CT000745_1_18._Contrato_nº_094.SSP.2019.pdf",
+                  "size": 2565489,
+                  "modified": "2025-10-02T14:57:46.333058",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2022CT000745/2022CT000745_1_18._Contrato_nº_094.SSP.2019.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 9045131,
+                  "modified": "2025-10-02T14:58:42.250151",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2022CT000745/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:26:24.381746"
+            },
+            {
+              "name": "2022CT000745.zip",
+              "size": 11294901,
+              "modified": "2025-10-02T19:26:00.212623",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2022CT000745.zip"
+            },
+            {
+              "name": "2022CT002157",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2022CT002157",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2022CT002157_1_Contrato_005_Costa_Oeste.pdf",
+                  "size": 913881,
+                  "modified": "2025-10-02T15:01:57.280942",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2022CT002157/2022CT002157_1_Contrato_005_Costa_Oeste.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 112967259,
+                  "modified": "2025-10-02T15:24:11.021896",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2022CT002157/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:26:27.386459"
+            },
+            {
+              "name": "2022CT002157_N.zip",
+              "size": 112576714,
+              "modified": "2025-10-02T19:26:06.921297",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2022CT002157_N.zip"
+            },
+            {
+              "name": "2023CT000548",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2023CT000548",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2023CT000548_1_Contrato_431_2021_COSTA_OESTE.pdf",
+                  "size": 896931,
+                  "modified": "2025-10-02T15:10:52.758882",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2023CT000548/2023CT000548_1_Contrato_431_2021_COSTA_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 6291456,
+                  "modified": "2025-10-02T15:23:10.115877",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2023CT000548/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:27:02.335549"
+            },
+            {
+              "name": "2023CT000548.zip",
+              "size": 7029262,
+              "modified": "2025-10-02T19:26:33.276217",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2023CT000548.zip"
+            },
+            {
+              "name": "2023CT000551",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2023CT000551",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2023CT000551_1_Contrato_434_2021_COSTA_OESTE.pdf",
+                  "size": 6398638,
+                  "modified": "2025-10-02T15:12:09.258811",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2023CT000551/2023CT000551_1_Contrato_434_2021_COSTA_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 0,
+                  "modified": "2025-10-02T15:14:22.339768",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2023CT000551/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:27:06.436157"
+            },
+            {
+              "name": "2023CT000551.zip",
+              "size": 6305943,
+              "modified": "2025-10-02T19:26:37.840193",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2023CT000551.zip"
+            },
+            {
+              "name": "2023CT005587",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2023CT005587",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 421613,
+                  "modified": "2025-10-02T15:21:02.921888",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2023CT005587/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:27:06.474202"
+            },
+            {
+              "name": "2023CT005587.zip",
+              "size": 420173,
+              "modified": "2025-10-02T19:26:41.333543",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2023CT005587.zip"
+            },
+            {
+              "name": "2024CT000752",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000752",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2024CT000752_1_Contrato_431_2021_COSTA_OESTE.pdf",
+                  "size": 896931,
+                  "modified": "2025-10-02T15:15:05.459630",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000752/2024CT000752_1_Contrato_431_2021_COSTA_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 44673082,
+                  "modified": "2025-10-02T15:27:38.355562",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000752/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:27:06.991651"
+            },
+            {
+              "name": "2024CT000752.zip",
+              "size": 44936593,
+              "modified": "2025-10-02T19:26:46.140888",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000752.zip"
+            },
+            {
+              "name": "2024CT000760",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000760",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2024CT000760_1_Contrato_434_2021_COSTA_OESTE.pdf",
+                  "size": 6398638,
+                  "modified": "2025-10-02T15:16:37.644222",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000760/2024CT000760_1_Contrato_434_2021_COSTA_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 37681126,
+                  "modified": "2025-10-02T15:26:56.683266",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000760/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:27:24.042673"
+            },
+            {
+              "name": "2024CT000760_N.zip",
+              "size": 43516505,
+              "modified": "2025-10-02T19:26:50.299121",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000760_N.zip"
+            },
+            {
+              "name": "2024CT000781",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000781",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2024CT000781_1_CONTRATO_416.2023_-_COSTA_OESTE_LOTE_4_-_REGIÃO_OESTE.pdf",
+                  "size": 3170575,
+                  "modified": "2025-10-02T15:17:54.511952",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000781/2024CT000781_1_CONTRATO_416.2023_-_COSTA_OESTE_LOTE_4_-_REGIÃO_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 9139522,
+                  "modified": "2025-10-02T15:21:41.164263",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000781/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:27:38.173040"
+            },
+            {
+              "name": "2024CT000781.zip",
+              "size": 12090086,
+              "modified": "2025-10-02T19:26:54.607740",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000781.zip"
+            },
+            {
+              "name": "2024CT000877",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000877",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2024CT000877_1_CONTRATO_375.2023_-_COSTA_OESTE_LOTE_6_-_REGIÃO_MEIO_OESTE.pdf",
+                  "size": 3174484,
+                  "modified": "2025-10-02T15:19:22.184079",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000877/2024CT000877_1_CONTRATO_375.2023_-_COSTA_OESTE_LOTE_6_-_REGIÃO_MEIO_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 5946245,
+                  "modified": "2025-10-02T15:22:11.014340",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000877/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:27:41.844681"
+            },
+            {
+              "name": "2024CT000877.zip",
+              "size": 8933966,
+              "modified": "2025-10-02T19:26:58.451447",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000877.zip"
+            },
+            {
+              "name": "2024CT000988",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000988",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2024CT000988_1_Contrato_005_Costa_Oeste.pdf",
+                  "size": 913881,
+                  "modified": "2025-10-02T15:04:17.531191",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000988/2024CT000988_1_Contrato_005_Costa_Oeste.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 6291456,
+                  "modified": "2025-10-02T15:23:17.855009",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000988/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:27:43.824496"
+            },
+            {
+              "name": "2024CT000988.zip",
+              "size": 7139000,
+              "modified": "2025-10-02T19:27:04.015789",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT000988.zip"
+            },
+            {
+              "name": "2024CT008419",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT008419",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2024CT008419_1_CONTRATO_416-2023_-_COSTA_OESTE_-_LOTE_4.pdf",
+                  "size": 3170575,
+                  "modified": "2025-10-02T14:04:48.594004",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT008419/2024CT008419_1_CONTRATO_416-2023_-_COSTA_OESTE_-_LOTE_4.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 13123564,
+                  "modified": "2025-10-02T14:06:48.337034",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT008419/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:27:51.103067"
+            },
+            {
+              "name": "2024CT008419.zip",
+              "size": 16025368,
+              "modified": "2025-10-02T19:27:09.243694",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT008419.zip"
+            },
+            {
+              "name": "2024CT008423",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT008423",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2024CT008423_1_CONTRATO_375-2023_-_COSTA_OESTE_-_LOTE_6.pdf",
+                  "size": 3174484,
+                  "modified": "2025-10-02T14:07:07.506838",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT008423/2024CT008423_1_CONTRATO_375-2023_-_COSTA_OESTE_-_LOTE_6.pdf"
+                },
+                {
+                  "name": "Extrato_tela.pdf",
+                  "size": 8048994,
+                  "modified": "2025-10-02T14:07:57.472827",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT008423/Extrato_tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:27:52.102132"
+            },
+            {
+              "name": "2024CT008423.zip",
+              "size": 11015564,
+              "modified": "2025-10-02T19:27:13.465028",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT008423.zip"
+            },
+            {
+              "name": "2024CT010874",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT010874",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2024CT010874_1_Contrato_431_2021_COSTA_OESTE.pdf",
+                  "size": 896931,
+                  "modified": "2025-10-02T15:28:14.513827",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT010874/2024CT010874_1_Contrato_431_2021_COSTA_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 11013379,
+                  "modified": "2025-10-02T15:29:19.842558",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT010874/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:27:54.869785"
+            },
+            {
+              "name": "2024CT010874.zip",
+              "size": 11698961,
+              "modified": "2025-10-02T19:27:17.507472",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT010874.zip"
+            },
+            {
+              "name": "2024CT010879",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT010879",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2024CT010879_1_Contrato_434_2021_COSTA_OESTE.pdf",
+                  "size": 6398638,
+                  "modified": "2025-10-02T15:29:09.800680",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT010879/2024CT010879_1_Contrato_434_2021_COSTA_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 9398043,
+                  "modified": "2025-10-02T15:30:01.810647",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2024CT010879/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:28:00.032380"
+            },
+            {
+              "name": "2025CT000466",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000466",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2025CT000466_1_Contrato_431_2021_COSTA_OESTE.pdf",
+                  "size": 896931,
+                  "modified": "2025-10-02T15:30:04.273004",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000466/2025CT000466_1_Contrato_431_2021_COSTA_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 51980487,
+                  "modified": "2025-10-02T15:37:43.187455",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000466/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:28:03.386559"
+            },
+            {
+              "name": "2025CT000466.zip",
+              "size": 52196353,
+              "modified": "2025-10-02T19:27:30.172460",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000466.zip"
+            },
+            {
+              "name": "2025CT000469",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000469",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2025CT000469_1_Contrato_434_2021_COSTA_OESTE.pdf",
+                  "size": 6398638,
+                  "modified": "2025-10-02T15:31:30.799772",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000469/2025CT000469_1_Contrato_434_2021_COSTA_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 38767306,
+                  "modified": "2025-10-02T15:37:30.664186",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000469/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:28:20.876523"
+            },
+            {
+              "name": "2025CT000469_N.zip",
+              "size": 44676949,
+              "modified": "2025-10-02T19:27:35.210726",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000469_N.zip"
+            },
+            {
+              "name": "2025CT000932",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000932",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2025CT000932_1_CONTRATO_416-2023_-_COSTA_OESTE_-_LOTE_4.pdf",
+                  "size": 3170575,
+                  "modified": "2025-10-02T14:08:41.456964",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000932/2025CT000932_1_CONTRATO_416-2023_-_COSTA_OESTE_-_LOTE_4.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 17358701,
+                  "modified": "2025-10-02T14:10:16.052080",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000932/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:28:33.416070"
+            },
+            {
+              "name": "2025CT000932.zip",
+              "size": 20210858,
+              "modified": "2025-10-02T19:27:39.247247",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000932.zip"
+            },
+            {
+              "name": "2025CT000938",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000938",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2025CT000938_1_CONTRATO_375-2023_-_COSTA_OESTE_-_LOTE_6.pdf",
+                  "size": 3174484,
+                  "modified": "2025-10-02T14:09:51.569298",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000938/2025CT000938_1_CONTRATO_375-2023_-_COSTA_OESTE_-_LOTE_6.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 8368451,
+                  "modified": "2025-10-02T14:10:42.000843",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000938/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:28:39.716735"
+            },
+            {
+              "name": "2025CT000938.zip",
+              "size": 11345102,
+              "modified": "2025-10-02T19:27:44.263876",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT000938.zip"
+            },
+            {
+              "name": "2025CT006057",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006057",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2025CT006057_1_ATA_-_CAPINA_E_ROÇADA_-_COSTA_OESTE.pdf",
+                  "size": 6445158,
+                  "modified": "2025-10-02T15:32:43.661084",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006057/2025CT006057_1_ATA_-_CAPINA_E_ROÇADA_-_COSTA_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 3208592,
+                  "modified": "2025-10-02T15:33:18.601434",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006057/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:28:44.005153"
+            },
+            {
+              "name": "2025CT006057.zip",
+              "size": 9320602,
+              "modified": "2025-10-02T19:27:48.067097",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006057.zip"
+            },
+            {
+              "name": "2025CT006060",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006060",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2025CT006060_1_ATA_-_CAPINA_E_ROÇADA_-_COSTA_OESTE.pdf",
+                  "size": 6445158,
+                  "modified": "2025-10-02T15:33:50.729699",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006060/2025CT006060_1_ATA_-_CAPINA_E_ROÇADA_-_COSTA_OESTE.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 3176430,
+                  "modified": "2025-10-02T15:34:24.036234",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006060/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:28:47.710551"
+            },
+            {
+              "name": "2025CT006060.zip",
+              "size": 9288518,
+              "modified": "2025-10-02T19:27:53.075523",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006060.zip"
+            },
+            {
+              "name": "2025CT006062",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006062",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2025CT006062_1_ATA_-_PRAGAS_-_LH_HAMES.pdf",
+                  "size": 2127677,
+                  "modified": "2025-10-02T15:34:35.983808",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006062/2025CT006062_1_ATA_-_PRAGAS_-_LH_HAMES.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 3201046,
+                  "modified": "2025-10-02T15:35:17.120151",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006062/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:28:49.507143"
+            },
+            {
+              "name": "2025CT006062.zip",
+              "size": 5192515,
+              "modified": "2025-10-02T19:27:56.909348",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006062.zip"
+            },
+            {
+              "name": "2025CT006067",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006067",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "2025CT006067_1_ATA_-_PRAGAS_-_ECO+.pdf",
+                  "size": 3612027,
+                  "modified": "2025-10-02T15:35:27.447619",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006067/2025CT006067_1_ATA_-_PRAGAS_-_ECO+.pdf"
+                },
+                {
+                  "name": "Extrato_Tela.pdf",
+                  "size": 3209475,
+                  "modified": "2025-10-02T15:36:07.457858",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006067/Extrato_Tela.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:28:51.797931"
+            },
+            {
+              "name": "2025CT006067.zip",
+              "size": 6610119,
+              "modified": "2025-10-02T19:28:01.869045",
+              "type": "file",
+              "extension": ".zip",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Santa_Cataria/2025CT006067.zip"
+            }
+          ],
+          "modified": "2025-10-22T11:28:50.540452"
+        },
+        {
+          "name": "Secretaria de Estado da Educação_17441906_Refeicao_ES",
+          "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES",
+          "type": "folder",
+          "children": [
+            {
+              "name": "G2",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "G2",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "01.zip",
+                      "size": 6659658,
+                      "modified": "2025-10-02T12:39:40.962738",
+                      "type": "file",
+                      "extension": ".zip",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/01.zip"
+                    },
+                    {
+                      "name": "02.zip",
+                      "size": 5638061,
+                      "modified": "2025-10-02T12:39:34.382615",
+                      "type": "file",
+                      "extension": ".zip",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/02.zip"
+                    },
+                    {
+                      "name": "03.zip",
+                      "size": 13300406,
+                      "modified": "2025-10-02T12:39:44.878622",
+                      "type": "file",
+                      "extension": ".zip",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/03.zip"
+                    },
+                    {
+                      "name": "04_Resp._Dilig._LT_02.zip",
+                      "size": 1678616,
+                      "modified": "2025-10-02T12:39:49.560715",
+                      "type": "file",
+                      "extension": ".zip",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/04_Resp._Dilig._LT_02.zip"
+                    },
+                    {
+                      "name": "04_Resp._Diligencia_LOTE_02.zip",
+                      "size": 1676916,
+                      "modified": "2025-10-02T12:39:46.856045",
+                      "type": "file",
+                      "extension": ".zip",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/04_Resp._Diligencia_LOTE_02.zip"
+                    },
+                    {
+                      "name": "1.zip",
+                      "size": 5541847,
+                      "modified": "2025-10-02T12:39:54.721850",
+                      "type": "file",
+                      "extension": ".zip",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/1.zip"
+                    },
+                    {
+                      "name": "2.zip",
+                      "size": 13316805,
+                      "modified": "2025-10-02T12:40:06.004126",
+                      "type": "file",
+                      "extension": ".zip",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/2.zip"
+                    },
+                    {
+                      "name": "3.zip",
+                      "size": 6688152,
+                      "modified": "2025-10-02T12:40:01.554112",
+                      "type": "file",
+                      "extension": ".zip",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/3.zip"
+                    },
+                    {
+                      "name": "4.zip",
+                      "size": 6289980,
+                      "modified": "2025-10-02T12:39:57.819864",
+                      "type": "file",
+                      "extension": ".zip",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/4.zip"
+                    },
+                    {
+                      "name": "ANEXOS.zip",
+                      "size": 6131537,
+                      "modified": "2025-10-02T12:39:37.825188",
+                      "type": "file",
+                      "extension": ".zip",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/ANEXOS.zip"
+                    },
+                    {
+                      "name": "Declaracao_Atestados.pdf",
+                      "size": 391824,
+                      "modified": "2025-10-02T12:40:14.198921",
+                      "type": "file",
+                      "extension": ".pdf",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/Declaracao_Atestados.pdf"
+                    },
+                    {
+                      "name": "Proposta_LT2_Costa_Oeste.zip",
+                      "size": 1731999,
+                      "modified": "2025-10-02T12:39:30.423162",
+                      "type": "file",
+                      "extension": ".zip",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/Proposta_LT2_Costa_Oeste.zip"
+                    },
+                    {
+                      "name": "Qualificacao_Financeira.zip",
+                      "size": 1262249,
+                      "modified": "2025-10-02T12:40:08.267636",
+                      "type": "file",
+                      "extension": ".zip",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/Qualificacao_Financeira.zip"
+                    },
+                    {
+                      "name": "Resposta_Diligencia.pdf",
+                      "size": 2226026,
+                      "modified": "2025-10-02T12:40:11.713139",
+                      "type": "file",
+                      "extension": ".pdf",
+                      "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G2/G2/Resposta_Diligencia.pdf"
+                    }
+                  ],
+                  "modified": "2025-10-22T11:29:17.190365"
+                }
+              ],
+              "modified": "2025-10-22T11:28:52.784998"
+            },
+            {
+              "name": "G5",
+              "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "01.zip",
+                  "size": 6659658,
+                  "modified": "2025-10-02T12:42:23.057050",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/01.zip"
+                },
+                {
+                  "name": "02.zip",
+                  "size": 5638061,
+                  "modified": "2025-10-02T12:42:26.092723",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/02.zip"
+                },
+                {
+                  "name": "03.zip",
+                  "size": 13300406,
+                  "modified": "2025-10-02T12:42:31.017225",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/03.zip"
+                },
+                {
+                  "name": "04 - Resp._Quinta_Diligencia_LT05.zip",
+                  "size": 2027903,
+                  "modified": "2025-10-02T12:44:06.459989",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/04 - Resp._Quinta_Diligencia_LT05.zip"
+                },
+                {
+                  "name": "04_Resp._Dilig._LOTE_05.zip",
+                  "size": 1829714,
+                  "modified": "2025-10-02T12:42:44.343403",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/04_Resp._Dilig._LOTE_05.zip"
+                },
+                {
+                  "name": "04_Resp._Dilig._LT_05.zip",
+                  "size": 1830167,
+                  "modified": "2025-10-02T12:42:47.080450",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/04_Resp._Dilig._LT_05.zip"
+                },
+                {
+                  "name": "04_Resp._Diligencia_LT05.zip",
+                  "size": 2028010,
+                  "modified": "2025-10-02T12:42:50.113041",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/04_Resp._Diligencia_LT05.zip"
+                },
+                {
+                  "name": "1.zip",
+                  "size": 5541847,
+                  "modified": "2025-10-02T12:43:03.825997",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/1.zip"
+                },
+                {
+                  "name": "2.zip",
+                  "size": 13316805,
+                  "modified": "2025-10-02T12:43:25.509238",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/2.zip"
+                },
+                {
+                  "name": "3.zip",
+                  "size": 6688152,
+                  "modified": "2025-10-02T12:43:21.278209",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/3.zip"
+                },
+                {
+                  "name": "4.zip",
+                  "size": 6289980,
+                  "modified": "2025-10-02T12:43:18.455224",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/4.zip"
+                },
+                {
+                  "name": "ANEXOS.zip",
+                  "size": 6131537,
+                  "modified": "2025-10-02T12:42:37.146041",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/ANEXOS.zip"
+                },
+                {
+                  "name": "Declaracao_Lote5.pdf",
+                  "size": 311481,
+                  "modified": "2025-10-02T12:43:27.570893",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/Declaracao_Lote5.pdf"
+                },
+                {
+                  "name": "Prop._Costa_Oeste_Lt05.zip",
+                  "size": 1872206,
+                  "modified": "2025-10-02T12:42:33.217118",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/Prop._Costa_Oeste_Lt05.zip"
+                },
+                {
+                  "name": "Prop_Diligencia_Costa_Oeste.zip",
+                  "size": 2302480,
+                  "modified": "2025-10-02T12:42:39.628222",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "COSTA OESTE SERVICOS LTDA - 07.192.4140001-09_Status_1510/Secretaria de Estado da Educação_17441906_Refeicao_ES/G5/Prop_Diligencia_Costa_Oeste.zip"
+                }
+              ],
+              "modified": "2025-10-22T11:29:42.629575"
+            }
+          ],
+          "modified": "2025-10-22T11:29:18.518311"
+        }
+      ],
+      "modified": "2025-10-22T11:28:52.730108"
+    },
+    {
+      "name": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510",
+      "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510",
+      "type": "folder",
+      "children": [
+        {
+          "name": "1. BALANÇO 2023.pdf",
+          "size": 30364,
+          "modified": "2024-07-16T09:06:19",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/1. BALANÇO 2023.pdf"
+        },
+        {
+          "name": "1. BALANÇO 2024.pdf",
+          "size": 127926,
+          "modified": "2025-05-29T09:47:57",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/1. BALANÇO 2024.pdf"
+        },
+        {
+          "name": "15ª ALTERAÇÃO - EXPRESS - TRANSFORMAÇÃO LTDA.pdf",
+          "size": 339773,
+          "modified": "2022-08-26T10:16:03",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/15ª ALTERAÇÃO - EXPRESS - TRANSFORMAÇÃO LTDA.pdf"
+        },
+        {
+          "name": "3. ATESTADO FASEPA 2023.pdf",
+          "size": 1134950,
+          "modified": "2023-12-20T09:25:18",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/3. ATESTADO FASEPA 2023.pdf"
+        },
+        {
+          "name": "5.1 ATESTADO FASEPA 2020.pdf",
+          "size": 163527,
+          "modified": "2023-12-19T16:06:08",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/5.1 ATESTADO FASEPA 2020.pdf"
+        },
+        {
+          "name": "5.3 ATESTADO FASEPA 2020-2022.pdf",
+          "size": 93303,
+          "modified": "2022-09-05T17:06:52",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/5.3 ATESTADO FASEPA 2020-2022.pdf"
+        },
+        {
+          "name": "6. ATESTADO HOSP DE CASTANHAL - 2017 -2022.pdf",
+          "size": 1967518,
+          "modified": "2024-07-11T07:42:52",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/6. ATESTADO HOSP DE CASTANHAL - 2017 -2022.pdf"
+        },
+        {
+          "name": "6.1. ATESTADO CONTRATO 124.2021 - SEAP - 2021-2023.pdf",
+          "size": 73910,
+          "modified": "2024-07-11T07:42:52",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/6.1. ATESTADO CONTRATO 124.2021 - SEAP - 2021-2023.pdf"
+        },
+        {
+          "name": "6.2. ATESTADO - CONTRATO 124.2021 - SEAP 2024.pdf",
+          "size": 421786,
+          "modified": "2024-07-11T07:42:52",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/6.2. ATESTADO - CONTRATO 124.2021 - SEAP 2024.pdf"
+        },
+        {
+          "name": "8. atestado de capacidade técnica hapvida.pdf",
+          "size": 455374,
+          "modified": "2021-05-15T00:07:42",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/8. atestado de capacidade técnica hapvida.pdf"
+        },
+        {
+          "name": "925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA",
+          "type": "folder",
+          "children": [
+            {
+              "name": "1. HABILITACAO JURIDICA.zip",
+              "size": 7676633,
+              "modified": "2025-10-15T11:24:55.710004",
+              "type": "file",
+              "extension": ".zip",
+              "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA/1. HABILITACAO JURIDICA.zip"
+            },
+            {
+              "name": "10. PROPOSTA COMERCIAL.zip",
+              "size": 4723512,
+              "modified": "2025-10-15T11:24:36.600504",
+              "type": "file",
+              "extension": ".zip",
+              "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA/10. PROPOSTA COMERCIAL.zip"
+            },
+            {
+              "name": "11. QUALIFICACAO TECNICA - OPERACIONAL.zip",
+              "size": 14835675,
+              "modified": "2025-10-15T11:24:37.688332",
+              "type": "file",
+              "extension": ".zip",
+              "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA/11. QUALIFICACAO TECNICA - OPERACIONAL.zip"
+            },
+            {
+              "name": "2. HABILITACAO JURIDICA II.zip",
+              "size": 2984288,
+              "modified": "2025-10-15T11:25:14.630432",
+              "type": "file",
+              "extension": ".zip",
+              "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA/2. HABILITACAO JURIDICA II.zip"
+            },
+            {
+              "name": "5.  QUALIFICACAO ECONOMICO FINANCEIRA I.zip",
+              "size": 11236929,
+              "modified": "2025-10-15T11:24:59.488686",
+              "type": "file",
+              "extension": ".zip",
+              "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA/5.  QUALIFICACAO ECONOMICO FINANCEIRA I.zip"
+            },
+            {
+              "name": "5.  QUALIFICACAO ECONOMICO FINANCEIRA II.zip",
+              "size": 13923460,
+              "modified": "2025-10-15T11:25:03.571457",
+              "type": "file",
+              "extension": ".zip",
+              "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA/5.  QUALIFICACAO ECONOMICO FINANCEIRA II.zip"
+            },
+            {
+              "name": "6.  CONTRATOS E ATESTADOS.zip",
+              "size": 13994802,
+              "modified": "2025-10-15T11:24:40.344786",
+              "type": "file",
+              "extension": ".zip",
+              "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA/6.  CONTRATOS E ATESTADOS.zip"
+            },
+            {
+              "name": "7.  CONTRATOS E ATESTADOS II.zip",
+              "size": 22274096,
+              "modified": "2025-10-15T11:24:49.466935",
+              "type": "file",
+              "extension": ".zip",
+              "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA/7.  CONTRATOS E ATESTADOS II.zip"
+            },
+            {
+              "name": "8. CONTRATOS E ATESTADOS III.zip",
+              "size": 26300025,
+              "modified": "2025-10-15T11:25:10.652923",
+              "type": "file",
+              "extension": ".zip",
+              "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA/8. CONTRATOS E ATESTADOS III.zip"
+            },
+            {
+              "name": "8.1 CONTRATOS E ATESTADOS IIII.zip",
+              "size": 16135721,
+              "modified": "2025-10-15T11:24:44.310224",
+              "type": "file",
+              "extension": ".zip",
+              "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA/8.1 CONTRATOS E ATESTADOS IIII.zip"
+            },
+            {
+              "name": "9. QUALIFICACAO TECNICA - CRN.zip",
+              "size": 15102911,
+              "modified": "2025-10-15T11:25:06.336465",
+              "type": "file",
+              "extension": ".zip",
+              "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA/9. QUALIFICACAO TECNICA - CRN.zip"
+            },
+            {
+              "name": "QUALIFICACAO TECNICA - EQUIPE.zip",
+              "size": 23856800,
+              "modified": "2025-10-15T11:25:14.218799",
+              "type": "file",
+              "extension": ".zip",
+              "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/925852 - EPA - SECRETARIA ESTADO DE ADM PENITENCIARIA/QUALIFICACAO TECNICA - EQUIPE.zip"
+            }
+          ],
+          "modified": "2025-10-22T11:30:42.086810"
+        },
+        {
+          "name": "ACT N° 275.PDF",
+          "size": 277096,
+          "modified": "2024-06-27T12:56:34",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/ACT N° 275.PDF"
+        },
+        {
+          "name": "ATEST. CAP.TEC. MUNICIPAL CASTANHAL.pdf",
+          "size": 723366,
+          "modified": "2024-08-22T08:58:02",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/ATEST. CAP.TEC. MUNICIPAL CASTANHAL.pdf"
+        },
+        {
+          "name": "ATEST. DE CAP. TÉC. TAILÂNDIA - EXPRESS.pdf",
+          "size": 503926,
+          "modified": "2024-08-22T08:58:02",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/ATEST. DE CAP. TÉC. TAILÂNDIA - EXPRESS.pdf"
+        },
+        {
+          "name": "ATESTADO CAP.TEC. HMUE.pdf",
+          "size": 363439,
+          "modified": "2024-08-22T08:58:02",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/ATESTADO CAP.TEC. HMUE.pdf"
+        },
+        {
+          "name": "ATESTADO DE CAPACIDADE TÉCNICA - EXPRESS.pdf",
+          "size": 503926,
+          "modified": "2024-08-22T08:25:17",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/ATESTADO DE CAPACIDADE TÉCNICA - EXPRESS.pdf"
+        },
+        {
+          "name": "ATESTADO DE CAPACIDADE TÉCNICA CAPANEMA - EXPRESS ALIMENTOS.pdf",
+          "size": 558839,
+          "modified": "2024-09-11T12:06:38",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/ATESTADO DE CAPACIDADE TÉCNICA CAPANEMA - EXPRESS ALIMENTOS.pdf"
+        },
+        {
+          "name": "ATESTADO OCRIM 2020.pdf",
+          "size": 173936,
+          "modified": "2023-12-19T16:06:33",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/ATESTADO OCRIM 2020.pdf"
+        },
+        {
+          "name": "ATESTADO SESMA MUNICIPAL.pdf",
+          "size": 630547,
+          "modified": "2024-08-22T12:17:29",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/ATESTADO SESMA MUNICIPAL.pdf"
+        },
+        {
+          "name": "ATESTADO SONDARIO E LAC - SESMA.pdf",
+          "size": 423892,
+          "modified": "2024-08-07T09:03:57",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/ATESTADO SONDARIO E LAC - SESMA.pdf"
+        },
+        {
+          "name": "ATESTADO.pdf",
+          "size": 1808408,
+          "modified": "2022-11-17T10:48:47",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/ATESTADO.pdf"
+        },
+        {
+          "name": "ATESTADOS DE CAPACIDADE TECNICA.pdf",
+          "size": 7155079,
+          "modified": "2022-06-13T09:21:42",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/ATESTADOS DE CAPACIDADE TECNICA.pdf"
+        },
+        {
+          "name": "Atestado de Capacidade Técnica - Contrato 037.2023.pdf",
+          "size": 133798,
+          "modified": "2024-07-11T07:42:52",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/Atestado de Capacidade Técnica - Contrato 037.2023.pdf"
+        },
+        {
+          "name": "CONTRATO EUROSONO_compressed (1).pdf",
+          "size": 744313,
+          "modified": "2023-05-26T10:51:02",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/CONTRATO EUROSONO_compressed (1).pdf"
+        },
+        {
+          "name": "Cnpj.pdf",
+          "size": 107956,
+          "modified": "2025-10-15T11:23:52.022970",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/Cnpj.pdf"
+        },
+        {
+          "name": "ESPORTE, LAZER E CULTURA.pdf",
+          "size": 863366,
+          "modified": "2023-10-10T11:29:40",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/ESPORTE, LAZER E CULTURA.pdf"
+        },
+        {
+          "name": "atestado de capacidade técnica hapvida.pdf",
+          "size": 455374,
+          "modified": "2021-05-15T00:07:42",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "EXPRESS ALIMENTOS - COZINHA INDUSTRIAL LTDA - 18.580.3030001-96_Status_1510/atestado de capacidade técnica hapvida.pdf"
+        }
+      ],
+      "modified": "2025-10-22T11:29:49.894130"
+    },
+    {
+      "name": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51",
+      "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51",
+      "type": "folder",
+      "children": [
+        {
+          "name": "18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF",
+          "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF",
+          "type": "folder",
+          "children": [
+            {
+              "name": "06 - 26ª Alteração Contratual.pdf",
+              "size": 2233173,
+              "modified": "2024-12-11T11:03:02",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/06 - 26ª Alteração Contratual.pdf"
+            },
+            {
+              "name": "07 - CNPJ.pdf",
+              "size": 183387,
+              "modified": "2025-01-02T09:37:59",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/07 - CNPJ.pdf"
+            },
+            {
+              "name": "1 - Habilitacao.zip",
+              "size": 11339566,
+              "modified": "2025-10-21T10:47:37.778130",
+              "type": "file",
+              "extension": ".zip",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/1 - Habilitacao.zip"
+            },
+            {
+              "name": "11 - BALANÇO  2024.pdf",
+              "size": 1229975,
+              "modified": "2025-06-30T16:52:53",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/11 - BALANÇO  2024.pdf"
+            },
+            {
+              "name": "11.1 - DRE Consolidada - 2024.pdf",
+              "size": 8258,
+              "modified": "2025-06-30T16:52:45",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/11.1 - DRE Consolidada - 2024.pdf"
+            },
+            {
+              "name": "11.2 - BALANÇO 2023.pdf",
+              "size": 1005949,
+              "modified": "2024-06-06T14:18:24",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/11.2 - BALANÇO 2023.pdf"
+            },
+            {
+              "name": "2 - Atestado.zip",
+              "size": 23627790,
+              "modified": "2025-10-21T10:47:40.263385",
+              "type": "file",
+              "extension": ".zip",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/2 - Atestado.zip"
+            },
+            {
+              "name": "21 - Atestado CD 2023.274.0 - Registrado CRA.DF.pdf",
+              "size": 2348465,
+              "modified": "2025-03-14T11:09:53",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/21 - Atestado CD 2023.274.0 - Registrado CRA.DF.pdf"
+            },
+            {
+              "name": "22 - Atestado SEDUCDF nº 58.2011.pdf",
+              "size": 444327,
+              "modified": "2018-11-06T07:32:38",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/22 - Atestado SEDUCDF nº 58.2011.pdf"
+            },
+            {
+              "name": "23 - Atestado INTO - Ct.32.2018.pdf",
+              "size": 797748,
+              "modified": "2023-10-16T16:19:01",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/23 - Atestado INTO - Ct.32.2018.pdf"
+            },
+            {
+              "name": "24 - Atestado DSEI Araguaia 03.2018.pdf",
+              "size": 738720,
+              "modified": "2024-05-06T08:45:50",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/24 - Atestado DSEI Araguaia 03.2018.pdf"
+            },
+            {
+              "name": "25 - Atestado DSEI Cuiabá 13.2017.pdf",
+              "size": 476370,
+              "modified": "2019-03-20T09:50:29",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/25 - Atestado DSEI Cuiabá 13.2017.pdf"
+            },
+            {
+              "name": "26 - Atestado MCTI 11.2021.pdf",
+              "size": 143239,
+              "modified": "2023-10-16T13:00:30",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/26 - Atestado MCTI 11.2021.pdf"
+            },
+            {
+              "name": "27 - Atestado Anvisa - 35.2018.pdf",
+              "size": 38373,
+              "modified": "2020-06-16T16:00:33",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/27 - Atestado Anvisa - 35.2018.pdf"
+            },
+            {
+              "name": "28 - Atestado TSE 63.2019.pdf",
+              "size": 170437,
+              "modified": "2024-06-06T14:08:28",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/28 - Atestado TSE 63.2019.pdf"
+            },
+            {
+              "name": "29. Atestado de Capacidade Técnica AGU 40.2022.pdf",
+              "size": 344930,
+              "modified": "2024-04-15T12:06:18",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/29. Atestado de Capacidade Técnica AGU 40.2022.pdf"
+            },
+            {
+              "name": "29.1 - Atestado AGU 40.2022.pdf",
+              "size": 344930,
+              "modified": "2024-04-15T12:06:18",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/29.1 - Atestado AGU 40.2022.pdf"
+            },
+            {
+              "name": "3- DOC PROPOSTA.zip",
+              "size": 9433537,
+              "modified": "2025-10-21T10:47:44.509738",
+              "type": "file",
+              "extension": ".zip",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/3- DOC PROPOSTA.zip"
+            },
+            {
+              "name": "30. Atestado AGU 50.2021.pdf",
+              "size": 224856,
+              "modified": "2024-04-29T08:08:42",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/30. Atestado AGU 50.2021.pdf"
+            },
+            {
+              "name": "32. Atestado AGU 45.2023.pdf",
+              "size": 165027,
+              "modified": "2024-10-21T09:27:40",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/32. Atestado AGU 45.2023.pdf"
+            },
+            {
+              "name": "33. Atestado AGU 43.2021.pdf",
+              "size": 190663,
+              "modified": "2025-01-08T16:37:31",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/33. Atestado AGU 43.2021.pdf"
+            },
+            {
+              "name": "34 - Atestado MD 11.2018.pdf",
+              "size": 370195,
+              "modified": "2024-10-24T14:45:36",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "G&E SERVICOS TERCEIRIZADOS LTDA - 08.744.1390001-51/18042817_Subsecretaria de Planejamento, Orçamento e Administração_DF/34 - Atestado MD 11.2018.pdf"
+            }
+          ],
+          "modified": "2025-10-22T11:31:11.073561"
+        }
+      ],
+      "modified": "2025-10-22T11:30:49.710432"
+    },
+    {
+      "name": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510",
+      "path": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Cnpj.pdf",
+          "size": 106642,
+          "modified": "2025-10-14T08:27:20.248205",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510/Cnpj.pdf"
+        },
+        {
+          "name": "Coordenadoria de Infraestrutura e Serviços Escolares_Kit",
+          "path": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510/Coordenadoria de Infraestrutura e Serviços Escolares_Kit",
+          "type": "folder",
+          "children": [
+            {
+              "name": "DAVID CORNETTA NETTO.pdf",
+              "size": 1626367,
+              "modified": "2025-10-14T08:41:57.969998",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510/Coordenadoria de Infraestrutura e Serviços Escolares_Kit/DAVID CORNETTA NETTO.pdf"
+            },
+            {
+              "name": "Habilitacao GRUPO JKM KIT LANCHE.pdf",
+              "size": 21001224,
+              "modified": "2025-10-14T08:42:03.081357",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510/Coordenadoria de Infraestrutura e Serviços Escolares_Kit/Habilitacao GRUPO JKM KIT LANCHE.pdf"
+            },
+            {
+              "name": "Proposta (1).pdf",
+              "size": 295291,
+              "modified": "2025-10-14T08:41:55.577205",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510/Coordenadoria de Infraestrutura e Serviços Escolares_Kit/Proposta (1).pdf"
+            }
+          ],
+          "modified": "2025-10-22T11:31:19.608416"
+        },
+        {
+          "name": "PMSP - SECRETARIA DE DIR. HUMANOS E CIDADANIA",
+          "path": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510/PMSP - SECRETARIA DE DIR. HUMANOS E CIDADANIA",
+          "type": "folder",
+          "children": [
+            {
+              "name": "HABILITACAO GRUPO JKM.zip",
+              "size": 27246540,
+              "modified": "2025-10-14T08:46:19.261977",
+              "type": "file",
+              "extension": ".zip",
+              "path": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510/PMSP - SECRETARIA DE DIR. HUMANOS E CIDADANIA/HABILITACAO GRUPO JKM.zip"
+            },
+            {
+              "name": "Planilha_assinado.pdf",
+              "size": 211446,
+              "modified": "2025-10-14T08:46:19.501192",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510/PMSP - SECRETARIA DE DIR. HUMANOS E CIDADANIA/Planilha_assinado.pdf"
+            },
+            {
+              "name": "relatorio-julg-hab-92506205900292024-s2-item-1.pdf",
+              "size": 106378,
+              "modified": "2025-10-14T08:53:28.267574",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510/PMSP - SECRETARIA DE DIR. HUMANOS E CIDADANIA/relatorio-julg-hab-92506205900292024-s2-item-1.pdf"
+            },
+            {
+              "name": "relatorio-termo-homologacao-92506205900292024-item-1.pdf",
+              "size": 105175,
+              "modified": "2025-10-14T08:53:31.234283",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510/PMSP - SECRETARIA DE DIR. HUMANOS E CIDADANIA/relatorio-termo-homologacao-92506205900292024-item-1.pdf"
+            }
+          ],
+          "modified": "2025-10-22T11:31:29.028677"
+        },
+        {
+          "name": "Qsa.pdf",
+          "size": 111458,
+          "modified": "2025-10-14T08:27:46.341382",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510/Qsa.pdf"
+        },
+        {
+          "name": "RG David.pdf",
+          "size": 897216,
+          "modified": "2025-10-14T08:41:56.269773",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "Grupo_JKM_Alimentacao_Ltda_32.454.3700001-95_Status_1510/RG David.pdf"
+        }
+      ],
+      "modified": "2025-10-22T11:31:19.856670"
+    },
+    {
+      "name": "Jleal_08.489.6640001-78_Status_1510",
+      "path": "Jleal_08.489.6640001-78_Status_1510",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Diretoria de Ensino - Região de São Bernardo do Campo_18083184",
+          "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Atestado 1.pdf",
+              "size": 231057,
+              "modified": "2025-09-26T16:25:03.882740",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Atestado 1.pdf"
+            },
+            {
+              "name": "Atestado 2.pdf",
+              "size": 185205,
+              "modified": "2025-09-26T16:25:13.154531",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Atestado 2.pdf"
+            },
+            {
+              "name": "CND Trabalhista.pdf",
+              "size": 105219,
+              "modified": "2025-09-26T16:25:21.350517",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CND Trabalhista.pdf"
+            },
+            {
+              "name": "CNH - Cesar Leal.pdf",
+              "size": 305377,
+              "modified": "2025-09-26T16:25:23.617841",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CNH - Cesar Leal.pdf"
+            },
+            {
+              "name": "CRN - Patricia.pdf",
+              "size": 74258,
+              "modified": "2025-09-26T16:25:38.925388",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CRN - Patricia.pdf"
+            },
+            {
+              "name": "CRR - PJ15450-2026.pdf",
+              "size": 2002845,
+              "modified": "2025-09-26T16:25:41.658496",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CRR - PJ15450-2026.pdf"
+            },
+            {
+              "name": "CUSTOS - AV 6 - 30 horas semanais.pdf",
+              "size": 46609,
+              "modified": "2025-09-26T16:22:11.594931",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS - AV 6 - 30 horas semanais.pdf"
+            },
+            {
+              "name": "CUSTOS - AV 6 - 44 horas semanais.pdf",
+              "size": 46384,
+              "modified": "2025-09-26T16:22:57.248838",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS - AV 6 - 44 horas semanais.pdf"
+            },
+            {
+              "name": "CUSTOS - INT 2 - 20 horas semanais.pdf",
+              "size": 46584,
+              "modified": "2025-09-26T16:23:12.309626",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS - INT 2 - 20 horas semanais.pdf"
+            },
+            {
+              "name": "CUSTOS - INT 3 - 20 horas semanais.pdf",
+              "size": 46406,
+              "modified": "2025-09-26T16:23:01.880281",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS - INT 3 - 20 horas semanais.pdf"
+            },
+            {
+              "name": "CUSTOS - INT 3 - 44 horas semanais.pdf",
+              "size": 46249,
+              "modified": "2025-09-26T16:23:34.865428",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS - INT 3 - 44 horas semanais.pdf"
+            },
+            {
+              "name": "CUSTOS - INT 4 - 20 horas semanais.pdf",
+              "size": 46563,
+              "modified": "2025-09-26T16:23:38.177154",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS - INT 4 - 20 horas semanais.pdf"
+            },
+            {
+              "name": "CUSTOS - INT 4 - 44 horas semanais.pdf",
+              "size": 46440,
+              "modified": "2025-09-26T16:23:40.876106",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS - INT 4 - 44 horas semanais.pdf"
+            },
+            {
+              "name": "CUSTOS - INT 4- 30 horas semanais.pdf",
+              "size": 46566,
+              "modified": "2025-09-26T16:23:43.064012",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS - INT 4- 30 horas semanais.pdf"
+            },
+            {
+              "name": "CUSTOS - INT 4- Corrigido - JLeal Multi Service -.pdf",
+              "size": 58263,
+              "modified": "2025-09-26T16:24:27.599796",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS - INT 4- Corrigido - JLeal Multi Service -.pdf"
+            },
+            {
+              "name": "CUSTOS -AV 6 - 20 horas semanais.pdf",
+              "size": 46597,
+              "modified": "2025-09-26T16:23:45.087532",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS -AV 6 - 20 horas semanais.pdf"
+            },
+            {
+              "name": "CUSTOS AV - 6 - Corrigido -  JLeal Multi Service -.pdf",
+              "size": 57549,
+              "modified": "2025-09-26T16:24:32.651765",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS AV - 6 - Corrigido -  JLeal Multi Service -.pdf"
+            },
+            {
+              "name": "CUSTOS AV 3 - Corrigido - JLeal Multi Service -.pdf",
+              "size": 58017,
+              "modified": "2025-09-26T16:24:38.293801",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS AV 3 - Corrigido - JLeal Multi Service -.pdf"
+            },
+            {
+              "name": "CUSTOS INT 2 - 44 horas semanais.pdf",
+              "size": 46345,
+              "modified": "2025-09-26T16:23:47.566600",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS INT 2 - 44 horas semanais.pdf"
+            },
+            {
+              "name": "CUSTOS INT 2 - Corrigido -  JLeal Multi Service -.pdf",
+              "size": 53856,
+              "modified": "2025-09-26T16:24:26.334781",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS INT 2 - Corrigido -  JLeal Multi Service -.pdf"
+            },
+            {
+              "name": "CUSTOS INT 3- Corrigido - JLeal Multi Service -.pdf",
+              "size": 58253,
+              "modified": "2025-09-26T16:24:34.723169",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/CUSTOS INT 3- Corrigido - JLeal Multi Service -.pdf"
+            },
+            {
+              "name": "Cartao CNPJ.pdf",
+              "size": 110242,
+              "modified": "2025-09-26T16:25:16.262350",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Cartao CNPJ.pdf"
+            },
+            {
+              "name": "Cartao CNPJ_0910.pdf",
+              "size": 218411,
+              "modified": "2025-10-09T14:02:19.770084",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Cartao CNPJ_0910.pdf"
+            },
+            {
+              "name": "Certidao  Tributos Mobiliarios.pdf",
+              "size": 84562,
+              "modified": "2025-09-26T16:24:53.005066",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Certidao  Tributos Mobiliarios.pdf"
+            },
+            {
+              "name": "Certidao de Tributos Federais .pdf",
+              "size": 77836,
+              "modified": "2025-09-26T16:24:50.301941",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Certidao de Tributos Federais .pdf"
+            },
+            {
+              "name": "Certidao do Estado.pdf",
+              "size": 998229,
+              "modified": "2025-09-26T16:25:18.712173",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Certidao do Estado.pdf"
+            },
+            {
+              "name": "Consulta Regularidade do Empregador.pdf",
+              "size": 96368,
+              "modified": "2025-09-26T16:24:55.884852",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Consulta Regularidade do Empregador.pdf"
+            },
+            {
+              "name": "Contrato Patricia.pdf",
+              "size": 454438,
+              "modified": "2025-09-26T16:25:26.835032",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Contrato Patricia.pdf"
+            },
+            {
+              "name": "Contrato Social.pdf",
+              "size": 2279780,
+              "modified": "2025-09-26T16:25:29.383763",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Contrato Social.pdf"
+            },
+            {
+              "name": "Declaracoes.pdf",
+              "size": 95634,
+              "modified": "2025-09-26T16:25:43.446807",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Declaracoes.pdf"
+            },
+            {
+              "name": "Dimensionamento de Mao de Obra.pdf",
+              "size": 81121,
+              "modified": "2025-09-26T16:23:53.402340",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Dimensionamento de Mao de Obra.pdf"
+            },
+            {
+              "name": "Emissao FDC.pdf",
+              "size": 156943,
+              "modified": "2025-09-26T16:25:45.640922",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Emissao FDC.pdf"
+            },
+            {
+              "name": "Falencia-Concordata.pdf",
+              "size": 44740,
+              "modified": "2025-09-26T16:25:47.910158",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Falencia-Concordata.pdf"
+            },
+            {
+              "name": "Jleal.zip",
+              "size": 12186959,
+              "modified": "2025-10-09T08:37:14.143426",
+              "type": "file",
+              "extension": ".zip",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Jleal.zip"
+            },
+            {
+              "name": "KIT Sped ECD 2024.pdf",
+              "size": 2176127,
+              "modified": "2025-09-26T16:25:53.726943",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/KIT Sped ECD 2024.pdf"
+            },
+            {
+              "name": "Kit Sped ECD  2023.pdf",
+              "size": 620273,
+              "modified": "2025-09-26T16:25:51.972084",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Kit Sped ECD  2023.pdf"
+            },
+            {
+              "name": "RG Patricia.pdf",
+              "size": 1020413,
+              "modified": "2025-09-26T16:25:56.095651",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/RG Patricia.pdf"
+            },
+            {
+              "name": "Sintegra.pdf",
+              "size": 137593,
+              "modified": "2025-09-26T16:25:57.934643",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Sintegra.pdf"
+            },
+            {
+              "name": "Valor Proposta Final- Corrigido.pdf",
+              "size": 441721,
+              "modified": "2025-09-26T16:24:41.474098",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Valor Proposta Final- Corrigido.pdf"
+            },
+            {
+              "name": "Valor Proposta Final.pdf",
+              "size": 88965,
+              "modified": "2025-09-26T16:24:02.035184",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/Valor Proposta Final.pdf"
+            },
+            {
+              "name": "_CUSTOS - AV 3 - 30 horas semanais.pdf",
+              "size": 46555,
+              "modified": "2025-09-26T16:21:41.414386",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/_CUSTOS - AV 3 - 30 horas semanais.pdf"
+            },
+            {
+              "name": "_CUSTOS - AV 3 - 44 horas semanais.pdf",
+              "size": 46444,
+              "modified": "2025-09-26T16:23:05.078851",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/_CUSTOS - AV 3 - 44 horas semanais.pdf"
+            },
+            {
+              "name": "_CUSTOS - AV3 - 20 horas semanais.pdf",
+              "size": 46598,
+              "modified": "2025-09-26T16:22:39.353136",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/_CUSTOS - AV3 - 20 horas semanais.pdf"
+            },
+            {
+              "name": "_CUSTOS - INT 2 - 30 horas semanais.pdf",
+              "size": 46526,
+              "modified": "2025-09-26T16:23:07.456169",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/_CUSTOS - INT 2 - 30 horas semanais.pdf"
+            },
+            {
+              "name": "_CUSTOS - INT 3- 30 horas semanais.pdf",
+              "size": 46379,
+              "modified": "2025-09-26T16:23:10.009988",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/_CUSTOS - INT 3- 30 horas semanais.pdf"
+            },
+            {
+              "name": "consultarCRC.pdf",
+              "size": 127813,
+              "modified": "2025-09-26T16:24:58.161961",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "Jleal_08.489.6640001-78_Status_1510/Diretoria de Ensino - Região de São Bernardo do Campo_18083184/consultarCRC.pdf"
+            }
+          ],
+          "modified": "2025-10-22T11:31:43.193968"
+        },
+        {
+          "name": "ESP-DIR.ENS.-REG.LESTE 4_",
+          "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_",
+          "type": "folder",
+          "children": [
+            {
+              "name": "BONIZZONI & BONIZZONI LTDA_Ganhador",
+              "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/BONIZZONI & BONIZZONI LTDA_Ganhador",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "15-10 LESTE 4.L1_PROPOSTA.pdf",
+                  "size": 1543192,
+                  "modified": "2025-10-21T15:06:07.689992",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/BONIZZONI & BONIZZONI LTDA_Ganhador/15-10 LESTE 4.L1_PROPOSTA.pdf"
+                },
+                {
+                  "name": "DOCS_HAB_BONIZZONI.zip",
+                  "size": 12508317,
+                  "modified": "2025-10-21T15:06:05.277488",
+                  "type": "file",
+                  "extension": ".zip",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/BONIZZONI & BONIZZONI LTDA_Ganhador/DOCS_HAB_BONIZZONI.zip"
+                },
+                {
+                  "name": "LESTE4.L1_PROPOSTA.pdf",
+                  "size": 1542805,
+                  "modified": "2025-10-21T15:06:03.275360",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/BONIZZONI & BONIZZONI LTDA_Ganhador/LESTE4.L1_PROPOSTA.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:31:48.282084"
+            },
+            {
+              "name": "J. LEAL MULTI SERVICE LTDA",
+              "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Atestado 1.pdf",
+                  "size": 231057,
+                  "modified": "2025-10-21T15:04:43.059901",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Atestado 1.pdf"
+                },
+                {
+                  "name": "Atestado 3.pdf",
+                  "size": 720080,
+                  "modified": "2025-10-21T15:04:46.414348",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Atestado 3.pdf"
+                },
+                {
+                  "name": "CND Trabalhista.pdf",
+                  "size": 105219,
+                  "modified": "2025-10-21T15:04:49.313663",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/CND Trabalhista.pdf"
+                },
+                {
+                  "name": "CNH - Cesar Leal.pdf",
+                  "size": 305377,
+                  "modified": "2025-10-21T15:04:51.339331",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/CNH - Cesar Leal.pdf"
+                },
+                {
+                  "name": "CRN - Patricia.pdf",
+                  "size": 74258,
+                  "modified": "2025-10-21T15:04:56.024576",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/CRN - Patricia.pdf"
+                },
+                {
+                  "name": "CRR - PJ15450-2026.pdf",
+                  "size": 2002845,
+                  "modified": "2025-10-21T15:05:06.840468",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/CRR - PJ15450-2026.pdf"
+                },
+                {
+                  "name": "Cartao CNPJ.pdf",
+                  "size": 110242,
+                  "modified": "2025-10-21T15:04:47.597442",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Cartao CNPJ.pdf"
+                },
+                {
+                  "name": "Certidao  Tributos Mobiliarios.pdf",
+                  "size": 84562,
+                  "modified": "2025-10-21T15:04:40.649716",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Certidao  Tributos Mobiliarios.pdf"
+                },
+                {
+                  "name": "Certidao de Tributos Federais .pdf",
+                  "size": 77836,
+                  "modified": "2025-10-21T15:04:35.859535",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Certidao de Tributos Federais .pdf"
+                },
+                {
+                  "name": "Certidao do Estado.pdf",
+                  "size": 998229,
+                  "modified": "2025-10-21T15:04:44.929434",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Certidao do Estado.pdf"
+                },
+                {
+                  "name": "Consulta Regularidade do Empregador.pdf",
+                  "size": 96368,
+                  "modified": "2025-10-21T15:04:52.858187",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Consulta Regularidade do Empregador.pdf"
+                },
+                {
+                  "name": "Contrato Patricia.pdf",
+                  "size": 454438,
+                  "modified": "2025-10-21T15:04:58.682395",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Contrato Patricia.pdf"
+                },
+                {
+                  "name": "Contrato Social.pdf",
+                  "size": 2279780,
+                  "modified": "2025-10-21T15:05:00.465303",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Contrato Social.pdf"
+                },
+                {
+                  "name": "Declaracoes.pdf",
+                  "size": 95630,
+                  "modified": "2025-10-21T15:05:03.998455",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Declaracoes.pdf"
+                },
+                {
+                  "name": "Emissao FDC.pdf",
+                  "size": 156943,
+                  "modified": "2025-10-21T15:05:05.442232",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Emissao FDC.pdf"
+                },
+                {
+                  "name": "Falencia-Concordata.pdf",
+                  "size": 44740,
+                  "modified": "2025-10-21T15:05:01.559664",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Falencia-Concordata.pdf"
+                },
+                {
+                  "name": "Falencia.pdf",
+                  "size": 44740,
+                  "modified": "2025-10-21T15:05:15.029078",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Falencia.pdf"
+                },
+                {
+                  "name": "KIT Sped ECD 2024.pdf",
+                  "size": 2176127,
+                  "modified": "2025-10-21T15:05:14.137642",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/KIT Sped ECD 2024.pdf"
+                },
+                {
+                  "name": "Kit Sped ECD  2023.pdf",
+                  "size": 620273,
+                  "modified": "2025-10-21T15:05:09.715089",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Kit Sped ECD  2023.pdf"
+                },
+                {
+                  "name": "Posto Avancado 4- corrigido.pdf",
+                  "size": 4826161,
+                  "modified": "2025-10-21T15:05:27.361815",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Avancado 4- corrigido.pdf"
+                },
+                {
+                  "name": "Posto Avancado 4.pdf",
+                  "size": 4773005,
+                  "modified": "2025-10-21T15:04:34.600754",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Avancado 4.pdf"
+                },
+                {
+                  "name": "Posto Avancado 5- corrigido.pdf",
+                  "size": 4734003,
+                  "modified": "2025-10-21T15:05:28.887506",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Avancado 5- corrigido.pdf"
+                },
+                {
+                  "name": "Posto Avancado 5.pdf",
+                  "size": 4666294,
+                  "modified": "2025-10-21T15:04:30.239602",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Avancado 5.pdf"
+                },
+                {
+                  "name": "Posto Avancado 6 - corrigido .pdf",
+                  "size": 4874019,
+                  "modified": "2025-10-21T15:05:30.395875",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Avancado 6 - corrigido .pdf"
+                },
+                {
+                  "name": "Posto Avancado 6.pdf",
+                  "size": 4747516,
+                  "modified": "2025-10-21T15:04:31.644086",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Avancado 6.pdf"
+                },
+                {
+                  "name": "Posto Intermediario 2- corrigido.pdf",
+                  "size": 4846840,
+                  "modified": "2025-10-21T15:05:25.762438",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Intermediario 2- corrigido.pdf"
+                },
+                {
+                  "name": "Posto Intermediario 2.pdf",
+                  "size": 4656791,
+                  "modified": "2025-10-21T15:04:27.124585",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Intermediario 2.pdf"
+                },
+                {
+                  "name": "Posto Intermediario 3- corrigido.pdf",
+                  "size": 4723641,
+                  "modified": "2025-10-21T15:05:20.080108",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Intermediario 3- corrigido.pdf"
+                },
+                {
+                  "name": "Posto Intermediario 3.pdf",
+                  "size": 4616264,
+                  "modified": "2025-10-21T15:04:25.652368",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Intermediario 3.pdf"
+                },
+                {
+                  "name": "Posto Intermediario 4 corrigido.pdf",
+                  "size": 4792832,
+                  "modified": "2025-10-21T15:05:22.777375",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Intermediario 4 corrigido.pdf"
+                },
+                {
+                  "name": "Posto Intermediario 4.pdf",
+                  "size": 4776718,
+                  "modified": "2025-10-21T15:04:28.603282",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Intermediario 4.pdf"
+                },
+                {
+                  "name": "Posto Intermediario 5 - corrigido .pdf",
+                  "size": 4786820,
+                  "modified": "2025-10-21T15:05:24.162102",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Intermediario 5 - corrigido .pdf"
+                },
+                {
+                  "name": "Posto Intermediario 5.pdf",
+                  "size": 4727189,
+                  "modified": "2025-10-21T15:04:33.184281",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Posto Intermediario 5.pdf"
+                },
+                {
+                  "name": "RG Patricia.pdf",
+                  "size": 1020413,
+                  "modified": "2025-10-21T15:05:12.043410",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/RG Patricia.pdf"
+                },
+                {
+                  "name": "Sintegra.pdf",
+                  "size": 137593,
+                  "modified": "2025-10-21T15:05:08.021628",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Sintegra.pdf"
+                },
+                {
+                  "name": "Valor Proposta Final.pdf",
+                  "size": 91329,
+                  "modified": "2025-10-21T15:04:23.199337",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Valor Proposta Final.pdf"
+                },
+                {
+                  "name": "Valor Proposta corrigida.pdf",
+                  "size": 328091,
+                  "modified": "2025-10-21T15:05:16.672169",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/Valor Proposta corrigida.pdf"
+                },
+                {
+                  "name": "consultarCRC.pdf",
+                  "size": 127813,
+                  "modified": "2025-10-21T15:04:54.028577",
+                  "type": "file",
+                  "extension": ".pdf",
+                  "path": "Jleal_08.489.6640001-78_Status_1510/ESP-DIR.ENS.-REG.LESTE 4_/J. LEAL MULTI SERVICE LTDA/consultarCRC.pdf"
+                }
+              ],
+              "modified": "2025-10-22T11:32:24.930162"
+            }
+          ],
+          "modified": "2025-10-22T11:31:48.929049"
+        }
+      ],
+      "modified": "2025-10-22T11:31:43.279504"
+    },
+    {
+      "name": "LUCIANO NEVES CRACCO – ME, CNPJ n.º 04.550.3890001-08,",
+      "path": "LUCIANO NEVES CRACCO – ME, CNPJ n.º 04.550.3890001-08,",
+      "type": "folder",
+      "children": [
+        {
+          "name": "termo_contrato_24108_96568.pdf",
+          "size": 7871995,
+          "modified": "2025-10-21T16:46:29.812560",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "LUCIANO NEVES CRACCO – ME, CNPJ n.º 04.550.3890001-08,/termo_contrato_24108_96568.pdf"
+        }
+      ],
+      "modified": "2025-10-22T11:32:25.119384"
+    },
+    {
+      "name": "NUTRI BRASIL LTDA_69.626.3490001-30_Status_15_10",
+      "path": "NUTRI BRASIL LTDA_69.626.3490001-30_Status_15_10",
+      "type": "folder",
+      "children": [
+        {
+          "name": "SECRETARIA DE ESTADO DE DESEN. SOCIAL DO DF_450858_90005_St2110",
+          "path": "NUTRI BRASIL LTDA_69.626.3490001-30_Status_15_10/SECRETARIA DE ESTADO DE DESEN. SOCIAL DO DF_450858_90005_St2110",
+          "type": "folder",
+          "children": [],
+          "modified": "2025-10-22T11:33:10.085673"
+        }
+      ],
+      "modified": "2025-10-22T11:32:50.856702"
+    },
+    {
+      "name": "PROAM_04.373.0340001-82_Status_1510",
+      "path": "PROAM_04.373.0340001-82_Status_1510",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Cartao_CNPJ.pdf",
+          "size": 182433,
+          "modified": "2025-10-10T13:18:34.981536",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "PROAM_04.373.0340001-82_Status_1510/Cartao_CNPJ.pdf"
+        },
+        {
+          "name": "QSA.pdf",
+          "size": 123788,
+          "modified": "2025-10-10T13:18:50.396643",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "PROAM_04.373.0340001-82_Status_1510/QSA.pdf"
+        },
+        {
+          "name": "Saude_Belem.pdf",
+          "size": 1485989,
+          "modified": "2025-10-10T13:48:06.465448",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "PROAM_04.373.0340001-82_Status_1510/Saude_Belem.pdf"
+        }
+      ],
+      "modified": "2025-10-22T11:33:16.311807"
+    },
+    {
+      "name": "SAMIR CAVALCANTE AUR - 18.261.8110001-01",
+      "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01",
+      "type": "folder",
+      "children": [
+        {
+          "name": "17317672_Hospital_regional_Sul_Jan25",
+          "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17317672_Hospital_regional_Sul_Jan25",
+          "type": "folder",
+          "children": [
+            {
+              "name": "4. PROPOSTA hospital regional sul ASSINADA.pdf",
+              "size": 398594,
+              "modified": "2025-10-02T11:46:23.171032",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17317672_Hospital_regional_Sul_Jan25/4. PROPOSTA hospital regional sul ASSINADA.pdf"
+            },
+            {
+              "name": "CND TRABALHISTA 08.06.25.zip",
+              "size": 16976385,
+              "modified": "2025-10-02T11:46:30.301751",
+              "type": "file",
+              "extension": ".zip",
+              "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17317672_Hospital_regional_Sul_Jan25/CND TRABALHISTA 08.06.25.zip"
+            },
+            {
+              "name": "TermoAutenticacao_240992482.zip",
+              "size": 22791643,
+              "modified": "2025-10-02T11:46:34.285190",
+              "type": "file",
+              "extension": ".zip",
+              "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17317672_Hospital_regional_Sul_Jan25/TermoAutenticacao_240992482.zip"
+            },
+            {
+              "name": "crc atualizado.zip",
+              "size": 5413729,
+              "modified": "2025-10-02T11:46:25.997845",
+              "type": "file",
+              "extension": ".zip",
+              "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17317672_Hospital_regional_Sul_Jan25/crc atualizado.zip"
+            }
+          ],
+          "modified": "2025-10-22T11:33:27.015489"
+        },
+        {
+          "name": "17786609_MINISTÉRIO DA EDUCAÇÃO - Universidade Federal Rural do Semi-Árido",
+          "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17786609_MINISTÉRIO DA EDUCAÇÃO - Universidade Federal Rural do Semi-Árido",
+          "type": "folder",
+          "children": [
+            {
+              "name": "ATESTADO DE CAPACIDADE TÉCNICA 01CE (1) (1) (1).pdf",
+              "size": 48097,
+              "modified": "2025-06-11T11:36:26",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17786609_MINISTÉRIO DA EDUCAÇÃO - Universidade Federal Rural do Semi-Árido/ATESTADO DE CAPACIDADE TÉCNICA 01CE (1) (1) (1).pdf"
+            },
+            {
+              "name": "ATESTADOS ATUALIZADOS.pdf",
+              "size": 15370106,
+              "modified": "2024-01-11T13:51:30",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17786609_MINISTÉRIO DA EDUCAÇÃO - Universidade Federal Rural do Semi-Árido/ATESTADOS ATUALIZADOS.pdf"
+            },
+            {
+              "name": "ATESTADOS TECNICO OPERACIONAL ATT.zip",
+              "size": 13645033,
+              "modified": "2025-10-02T11:48:38.939029",
+              "type": "file",
+              "extension": ".zip",
+              "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17786609_MINISTÉRIO DA EDUCAÇÃO - Universidade Federal Rural do Semi-Árido/ATESTADOS TECNICO OPERACIONAL ATT.zip"
+            },
+            {
+              "name": "BALANCO 2022.pdf",
+              "size": 3624394,
+              "modified": "2023-04-24T09:08:44",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17786609_MINISTÉRIO DA EDUCAÇÃO - Universidade Federal Rural do Semi-Árido/BALANCO 2022.pdf"
+            },
+            {
+              "name": "Balanço 2023.pdf",
+              "size": 10029175,
+              "modified": "2025-05-02T15:56:18",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17786609_MINISTÉRIO DA EDUCAÇÃO - Universidade Federal Rural do Semi-Árido/Balanço 2023.pdf"
+            },
+            {
+              "name": "CRN CAPACIDADE TÉCNICA (2) (1) (1).pdf",
+              "size": 308947,
+              "modified": "2025-06-11T11:37:27",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17786609_MINISTÉRIO DA EDUCAÇÃO - Universidade Federal Rural do Semi-Árido/CRN CAPACIDADE TÉCNICA (2) (1) (1).pdf"
+            },
+            {
+              "name": "DOCUMENTOS.zip",
+              "size": 16991225,
+              "modified": "2025-10-02T11:48:36.953487",
+              "type": "file",
+              "extension": ".zip",
+              "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17786609_MINISTÉRIO DA EDUCAÇÃO - Universidade Federal Rural do Semi-Árido/DOCUMENTOS.zip"
+            },
+            {
+              "name": "LIVRO DIÁRIO 2024.pdf",
+              "size": 1498155,
+              "modified": "2025-06-12T10:40:56",
+              "type": "file",
+              "extension": ".pdf",
+              "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17786609_MINISTÉRIO DA EDUCAÇÃO - Universidade Federal Rural do Semi-Árido/LIVRO DIÁRIO 2024.pdf"
+            },
+            {
+              "name": "REQUERIMENTO-CONTRATO SOCIAL ATT.zip",
+              "size": 15843114,
+              "modified": "2025-10-02T11:48:32.564961",
+              "type": "file",
+              "extension": ".zip",
+              "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/17786609_MINISTÉRIO DA EDUCAÇÃO - Universidade Federal Rural do Semi-Árido/REQUERIMENTO-CONTRATO SOCIAL ATT.zip"
+            }
+          ],
+          "modified": "2025-10-22T11:33:57.747336"
+        },
+        {
+          "name": "ArquivoContrato3348220347601544233 (1).pdf",
+          "size": 89703,
+          "modified": "2025-10-02T11:50:12.682597",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SAMIR CAVALCANTE AUR - 18.261.8110001-01/ArquivoContrato3348220347601544233 (1).pdf"
+        }
+      ],
+      "modified": "2025-10-22T11:33:34.511729"
+    },
+    {
+      "name": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510",
+      "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510",
+      "type": "folder",
+      "children": [
+        {
+          "name": "ALVARA_2025.pdf",
+          "size": 157703,
+          "modified": "2025-10-10T14:03:34.439066",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/ALVARA_2025.pdf"
+        },
+        {
+          "name": "ATUAL_ALTERACAO_UNIPESSOAL_E_BAIXA_FILIAIS.pdf",
+          "size": 1153479,
+          "modified": "2025-10-10T14:04:36.753572",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/ATUAL_ALTERACAO_UNIPESSOAL_E_BAIXA_FILIAIS.pdf"
+        },
+        {
+          "name": "AT_CAP_TEC_CECRISA_MAR_25.pdf",
+          "size": 241393,
+          "modified": "2025-10-10T14:03:30.132370",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/AT_CAP_TEC_CECRISA_MAR_25.pdf"
+        },
+        {
+          "name": "Atestado_de_capacidade_tecnica_Construir_Ciap.pdf",
+          "size": 253233,
+          "modified": "2025-10-10T14:03:11.703983",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Atestado_de_capacidade_tecnica_Construir_Ciap.pdf"
+        },
+        {
+          "name": "Atestado_de_capacidade_tecnica_Governador_Valadares.pdf",
+          "size": 325137,
+          "modified": "2025-10-10T14:03:22.788123",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Atestado_de_capacidade_tecnica_Governador_Valadares.pdf"
+        },
+        {
+          "name": "Atestado_de_capacidade_tecnica_Guimaraes_.pdf",
+          "size": 277471,
+          "modified": "2025-10-10T14:03:07.346747",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Atestado_de_capacidade_tecnica_Guimaraes_.pdf"
+        },
+        {
+          "name": "Atestado_de_capacidade_tecnica_Parex.pdf",
+          "size": 304809,
+          "modified": "2025-10-10T14:03:26.512075",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Atestado_de_capacidade_tecnica_Parex.pdf"
+        },
+        {
+          "name": "Atestado_de_capacidade_tecnica_Vamtec (1).pdf",
+          "size": 276936,
+          "modified": "2025-10-10T14:03:18.827664",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Atestado_de_capacidade_tecnica_Vamtec (1).pdf"
+        },
+        {
+          "name": "Atestado_de_capacidade_tecnica_Vamtec.pdf",
+          "size": 276936,
+          "modified": "2025-10-10T14:03:15.469145",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Atestado_de_capacidade_tecnica_Vamtec.pdf"
+        },
+        {
+          "name": "BALANCO_2024_SERVESE_assinado.pdf",
+          "size": 41393,
+          "modified": "2025-10-10T14:03:53.004996",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/BALANCO_2024_SERVESE_assinado.pdf"
+        },
+        {
+          "name": "BALANCO_ANUAL_2023.pdf",
+          "size": 157657,
+          "modified": "2025-10-10T14:04:03.468498",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/BALANCO_ANUAL_2023.pdf"
+        },
+        {
+          "name": "CND_ESTADUAL_VENC._25052025_3_.pdf",
+          "size": 112786,
+          "modified": "2025-10-10T14:04:17.486749",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/CND_ESTADUAL_VENC._25052025_3_.pdf"
+        },
+        {
+          "name": "CND_FEDERAL_VENC.23082025_2_.pdf",
+          "size": 217280,
+          "modified": "2025-10-10T14:04:31.715926",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/CND_FEDERAL_VENC.23082025_2_.pdf"
+        },
+        {
+          "name": "CND_MUNICIPAL_VENC._26032025_1_.pdf",
+          "size": 204990,
+          "modified": "2025-10-10T14:04:15.138280",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/CND_MUNICIPAL_VENC._26032025_1_.pdf"
+        },
+        {
+          "name": "CNH-e.pdf_2_.pdf",
+          "size": 288885,
+          "modified": "2025-10-10T14:02:53.259432",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/CNH-e.pdf_2_.pdf"
+        },
+        {
+          "name": "CNPJ_MATRIZ_MAI_24.pdf",
+          "size": 254284,
+          "modified": "2025-10-10T14:04:33.766497",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/CNPJ_MATRIZ_MAI_24.pdf"
+        },
+        {
+          "name": "CRF_FGTS_1_.pdf",
+          "size": 81963,
+          "modified": "2025-10-10T14:04:28.664256",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/CRF_FGTS_1_.pdf"
+        },
+        {
+          "name": "CRR_-_SERVE-SE_ALIMENTACAO_E_SERVICOS_LTDA.pdf",
+          "size": 172380,
+          "modified": "2025-10-10T14:03:03.431238",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/CRR_-_SERVE-SE_ALIMENTACAO_E_SERVICOS_LTDA.pdf"
+        },
+        {
+          "name": "Certidao_de_Nada_Consta.pdf",
+          "size": 50805,
+          "modified": "2025-10-10T14:02:58.006777",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Certidao_de_Nada_Consta.pdf"
+        },
+        {
+          "name": "Certidao_trabalhista_1_ (1).pdf",
+          "size": 86062,
+          "modified": "2025-10-10T14:04:25.442034",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Certidao_trabalhista_1_ (1).pdf"
+        },
+        {
+          "name": "Certidao_trabalhista_1_.pdf",
+          "size": 86062,
+          "modified": "2025-10-10T14:04:23.335933",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Certidao_trabalhista_1_.pdf"
+        },
+        {
+          "name": "Cnps.pdf",
+          "size": 208465,
+          "modified": "2025-10-10T13:57:08.976856",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Cnps.pdf"
+        },
+        {
+          "name": "Concorrente_SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30.zip",
+          "size": 8006121,
+          "modified": "2025-10-10T14:05:25.906276",
+          "type": "file",
+          "extension": ".zip",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Concorrente_SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30.zip"
+        },
+        {
+          "name": "Contrato+027-2025++SERVE-SE+compressed.pdf",
+          "size": 223891,
+          "modified": "2025-10-10T13:58:44.289292",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Contrato+027-2025++SERVE-SE+compressed.pdf"
+        },
+        {
+          "name": "DRE_2024_SERVE_SE_assinado.pdf",
+          "size": 59598,
+          "modified": "2025-10-10T14:03:49.130594",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/DRE_2024_SERVE_SE_assinado.pdf"
+        },
+        {
+          "name": "DRE_ANUAL_2023.pdf",
+          "size": 162154,
+          "modified": "2025-10-10T14:04:00.211776",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/DRE_ANUAL_2023.pdf"
+        },
+        {
+          "name": "Declaracao_de_cumprimento_Direitos_trabalhistas_.pdf",
+          "size": 563855,
+          "modified": "2025-10-10T14:02:48.038486",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Declaracao_de_cumprimento_Direitos_trabalhistas_.pdf"
+        },
+        {
+          "name": "Declaracao_de_nao_emprego_de_trabalho_infantil_ou_analogo_a_escravidao_.pdf",
+          "size": 426226,
+          "modified": "2025-10-10T14:02:42.447666",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Declaracao_de_nao_emprego_de_trabalho_infantil_ou_analogo_a_escravidao_.pdf"
+        },
+        {
+          "name": "ECD_JUNTA_COMERCIAL.pdf",
+          "size": 288433,
+          "modified": "2025-10-10T14:03:45.245781",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/ECD_JUNTA_COMERCIAL.pdf"
+        },
+        {
+          "name": "FALENC._E_CONCORDATA_VENC._24052025_4_.pdf",
+          "size": 15203,
+          "modified": "2025-10-10T14:04:11.633541",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/FALENC._E_CONCORDATA_VENC._24052025_4_.pdf"
+        },
+        {
+          "name": "INDICE_DE_LIQUIDEZ_SERVE_SE_2023.pdf",
+          "size": 187572,
+          "modified": "2025-10-10T14:04:05.757487",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/INDICE_DE_LIQUIDEZ_SERVE_SE_2023.pdf"
+        },
+        {
+          "name": "INDICE_DE_LIQUIDEZ_SERVE_SE_pdf.pdf",
+          "size": 187949,
+          "modified": "2025-10-10T14:03:56.619097",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/INDICE_DE_LIQUIDEZ_SERVE_SE_pdf.pdf"
+        },
+        {
+          "name": "INSCRICAO_ESTADUAL_1_.pdf",
+          "size": 14697,
+          "modified": "2025-10-10T14:04:20.376703",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/INSCRICAO_ESTADUAL_1_.pdf"
+        },
+        {
+          "name": "INSCRICAO_MUNICIPAL.pdf",
+          "size": 149757,
+          "modified": "2025-10-10T14:04:09.106678",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/INSCRICAO_MUNICIPAL.pdf"
+        },
+        {
+          "name": "Planilha_sintetica_.pdf",
+          "size": 267152,
+          "modified": "2025-10-10T14:02:28.502048",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Planilha_sintetica_.pdf"
+        },
+        {
+          "name": "Procuracao_Serve-se.pdf",
+          "size": 138316,
+          "modified": "2025-10-10T14:02:16.199605",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Procuracao_Serve-se.pdf"
+        },
+        {
+          "name": "QSA.pdf",
+          "size": 105683,
+          "modified": "2025-10-10T13:57:23.426380",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/QSA.pdf"
+        },
+        {
+          "name": "RECIBO_TRANS_ECD_2023 (1).pdf",
+          "size": 3980,
+          "modified": "2025-10-10T14:03:41.176338",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/RECIBO_TRANS_ECD_2023 (1).pdf"
+        },
+        {
+          "name": "RECIBO_TRANS_ECD_2023.pdf",
+          "size": 3980,
+          "modified": "2025-10-10T14:03:37.962488",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/RECIBO_TRANS_ECD_2023.pdf"
+        },
+        {
+          "name": "Vinculo_empregaticio_.pdf",
+          "size": 1026563,
+          "modified": "2025-10-10T14:02:36.876378",
+          "type": "file",
+          "extension": ".pdf",
+          "path": "SERVE-SE ALIMENTACAO E SERVICOS LTDA_11.332.4460001- 30_Status_1510/Vinculo_empregaticio_.pdf"
+        }
+      ],
+      "modified": "2025-10-22T11:34:12.575620"
+    },
     {
       "name": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10",
       "path": "TERRACO REFEICOES PROFISSIONAIS LTDA - 15.839.9210001-10",
